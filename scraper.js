@@ -1,10 +1,13 @@
 const { chromium } = require('playwright');
 const fs = require('fs');
+const path = require('path');
+const express = require('express');
 
 (async () => {
-  console.log("🚀 Lancement du navigateur...");
+  console.log("🚀 Lancement du navigateur et du serveur...");
   const browser = await chromium.launch({ headless: false });
-  const page = await browser.newPage();
+  const context = await browser.newContext();
+  const page = await context.newPage();
 
   const allOffers = [];
   let currentPage = 1;
@@ -31,34 +34,27 @@ const fs = require('fs');
     const extractOffers = async () => {
       return await page.evaluate(() => {
         const results = [];
-        // Utilisation de [data-cy="serpCard"] comme conteneur stable
         const jobCards = document.querySelectorAll('[data-cy="serpCard"]');
         
         jobCards.forEach((card) => {
           try {
-            // Titre : dans le lien avec data-cy="offerTitle"
             const titleEl = card.querySelector('[data-cy="offerTitle"] p.tw-typo-l, [data-cy="offerTitle"] h3 p');
             const title = titleEl ? titleEl.innerText.trim() : null;
             
-            // Entreprise : p.tw-typo-s.tw-inline
             const companyEl = card.querySelector('[data-cy="offerTitle"] p.tw-typo-s.tw-inline');
             const company = companyEl ? companyEl.innerText.trim() : null;
             
-            // Localisation
             const locationEl = card.querySelector('[data-cy="localisationCard"]');
             const location = locationEl ? locationEl.innerText.trim() : null;
             
-            // Contrat
             const contractEl = card.querySelector('[data-cy="contractCard"]');
             const contract = contractEl ? contractEl.innerText.trim() : null;
             
-            // Salaire (le div qui contient '€')
             const salaryEl = Array.from(card.querySelectorAll('.tw-tag-secondary-s')).find(el => 
               el.innerText.includes('€')
             );
             const salary = salaryEl ? salaryEl.innerText.trim() : null;
             
-            // Lien
             const linkEl = card.querySelector('[data-cy="offerTitle"]');
             const url = linkEl ? linkEl.getAttribute('href') : null;
 
@@ -72,9 +68,7 @@ const fs = require('fs');
                 url: url ? `https://www.hellowork.com${url}` : null
               });
             }
-          } catch (e) {
-            // Erreur individuelle silencieuse
-          }
+          } catch (e) {}
         });
         return results;
       });
@@ -82,19 +76,13 @@ const fs = require('fs');
 
     while (currentPage <= maxPages) {
       console.log(`\n📄 Traitement de la page ${currentPage}...`);
-      
-      // Attente du chargement des offres
       await page.waitForSelector('[data-cy="serpCard"]', { timeout: 10000 }).catch(() => {});
       await page.waitForTimeout(2000);
 
-      // Extraction
       const pageOffers = await extractOffers();
       console.log(`✅ ${pageOffers.length} offres extraites.`);
       allOffers.push(...pageOffers);
 
-      // Navigation page suivante
-      // Le bouton "Suivant" est un <button> avec une flèche droite (href="/svg/icons/arrow.svg#right")
-      // Il contient value="page_suivante" ou simplement l'icone right
       const nextBtn = await page.$('button[form="searchForm"]:has(svg use[href*="right"])');
       
       if (nextBtn && !await nextBtn.isDisabled()) {
@@ -103,23 +91,38 @@ const fs = require('fs');
         await page.waitForLoadState('networkidle');
         currentPage++;
       } else {
-        console.log("🏁 Dernière page atteinte ou bouton suivant désactivé.");
+        console.log("🏁 Dernière page atteinte.");
         break;
       }
     }
 
     // Sauvegarde
     if (allOffers.length > 0) {
-      fs.writeFileSync('offres.json', JSON.stringify(allOffers, null, 2));
+      const jsonPath = path.join(__dirname, 'offres.json');
+      fs.writeFileSync(jsonPath, JSON.stringify(allOffers, null, 2));
       console.log(`\n🎉 Terminé ! ${allOffers.length} offres au total dans 'offres.json'.`);
+      
+      // Démarrage du serveur Express
+      const app = express();
+      const port = 3000;
+      
+      // Servir le dossier courant comme fichiers statiques
+      app.use(express.static(__dirname));
+      
+      const server = app.listen(port, async () => {
+        console.log(`📊 Serveur dashboard démarré sur http://localhost:${port}`);
+        
+        // Ouvrir le dashboard
+        const dashboardPage = await context.newPage();
+        await dashboardPage.goto(`http://localhost:${port}/dashboard.html`);
+      });
+
     } else {
       console.log("⚠️ Aucune offre extraite.");
     }
 
   } catch (error) {
     console.error("❌ Erreur:", error.message);
-  } finally {
-    await browser.close();
-    console.log("🔒 Navigateur fermé.");
-  }
+  } 
+  // On ne ferme pas le navigateur ici pour laisser le dashboard ouvert
 })();
