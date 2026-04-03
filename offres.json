@@ -1,5 +1,28 @@
 [
   {
+    "title": "Alternance Informatique H/F",
+    "company": "L'Industrie recrute",
+    "location": "Châtellerault - 86",
+    "contract": "Alternance",
+    "salary": "492,22 - 1 823,03 € / mois",
+    "url": "https://www.hellowork.com/fr-fr/emplois/77251570.html"
+  },
+  {
+    "title": "Alternance Informatique Industrielle H/F",
+    "company": "Groupe Atlantic",
+    "location": "Orléans - 45",
+    "contract": "Alternance",
+    "url": "https://www.hellowork.com/fr-fr/emplois/76013373.html"
+  },
+  {
+    "title": "Alternance - Informatique - Intelligence Artificielle H/F",
+    "company": "Eiffage Energie Systèmes",
+    "location": "Saint-Priest - 69",
+    "contract": "Alternance",
+    "salary": "492,22 - 1 823,03 € / mois",
+    "url": "https://www.hellowork.com/fr-fr/emplois/77423690.html"
+  },
+  {
     "title": "Alternance - Achats Informatique H/F",
     "company": "Vinci SA",
     "location": "Nanterre - 92",
@@ -16,52 +39,12 @@
     "url": "https://www.hellowork.com/fr-fr/emplois/77295848.html"
   },
   {
-    "title": "Alternance Informatique H/F",
-    "company": "L'Industrie recrute",
-    "location": "Châtellerault - 86",
+    "title": "Alternance Informatique Shoploor H/F",
+    "company": "Groupe SEB",
+    "location": "Annecy - 74",
     "contract": "Alternance",
-    "salary": "492,22 - 1 823,03 € / mois",
-    "url": "https://www.hellowork.com/fr-fr/emplois/77251570.html"
-  },
-  {
-    "title": "Alternance- Marketing Informatique Médicale·e-Santé H/F",
-    "company": "Siemens Healthineers",
-    "location": "Courbevoie - 92",
-    "contract": "Alternance",
-    "salary": "492,22 - 1 823,03 € / mois",
-    "url": "https://www.hellowork.com/fr-fr/emplois/77417697.html"
-  },
-  {
-    "title": "Alternance Contrôleur de Gestion Informatique H/F",
-    "company": "Bouygues Telecom",
-    "location": "Meudon la Forêt - 92",
-    "contract": "Alternance",
-    "salary": "492,22 - 1 823,03 € / mois",
-    "url": "https://www.hellowork.com/fr-fr/emplois/77500199.html"
-  },
-  {
-    "title": "Alternance - Sécurité Informatique et Conformité H/F",
-    "company": "Banque Populaire Auvergne Rhône Alpes",
-    "location": "Lyon - 69",
-    "contract": "Alternance",
-    "salary": "492,22 - 1 823,03 € / mois",
-    "url": "https://www.hellowork.com/fr-fr/emplois/76935082.html"
-  },
-  {
-    "title": "Alternance - Support Informatique- Tssr À Rennes H/F",
-    "company": "SCHOLA NOVA",
-    "location": "Rennes - Paris",
-    "contract": "Alternance",
-    "salary": "Non spécifié",
-    "url": "https://www.hellowork.com/fr-fr/emplois/77293107.html"
-  },
-  {
-    "title": "Alternance Support Informatique N2 - N3 H/F",
-    "company": "NEXA Digital School",
-    "location": "Lille - 59",
-    "contract": "Alternance",
-    "salary": "800 - 1 823,03 € / mois",
-    "url": "https://www.hellowork.com/fr-fr/emplois/77288749.html"
+    "salary": "20 000 € / an",
+    "url": "https://www.hellowork.com/fr-fr/emplois/75343293.html"
   },
   {
     "title": "Alternance Ingénieur Réseau Informatique H/F",
@@ -72,12 +55,12 @@
     "url": "https://www.hellowork.com/fr-fr/emplois/77024956.html"
   },
   {
-    "title": "Alternance - Ingénieur Développement Informatique et Pilotage H/F",
-    "company": "RTE",
-    "location": "La Chapelle-sur-Erdre - 44",
+    "title": "Alternance- Marketing Informatique Médicale·e-Santé H/F",
+    "company": "Siemens Healthineers",
+    "location": "Courbevoie - 92",
     "contract": "Alternance",
-    "salary": "1 422 - 1 823 € / mois",
-    "url": "https://www.hellowork.com/fr-fr/emplois/77495655.html"
+    "salary": "492,22 - 1 823,03 € / mois",
+    "url": "https://www.hellowork.com/fr-fr/emplois/77417697.html"
   },
   {
     "title": "Alternance - Assistant Commercial Informatique H/F",
@@ -88,52 +71,58 @@
     "url": "https://www.hellowork.com/fr-fr/emplois/77078175.html"
   },
   {
-    "title": "Alternance Informatique Industrielle H/F",
-    "company": "Groupe Atlantic",
-    "location": "Orléans - 45",
+    "title": "Alternance - Ingénieur Développement Informatique et Pilotage H/F",
+    "company": "RTE",
+    "location": "La Chapelle-sur-Erdre - 44",
     "contract": "Alternance",
-    "salary": "Non spécifié",
-    "url": "https://www.hellowork.com/fr-fr/emplois/76013373.html"
+    "salary": "1 422 - 1 823 € / mois",
+    "url": "https://www.hellowork.com/fr-fr/emplois/77495655.html"
+  },
+  {
+    "title": "Alternance - Sécurité Informatique et Conformité H/F",
+    "company": "Banque Populaire Auvergne Rhône Alpes",
+    "location": "Lyon - 69",
+    "contract": "Alternance",
+    "salary": "492,22 - 1 823,03 € / mois",
+    "url": "https://www.hellowork.com/fr-fr/emplois/76935082.html"
+  },
+  {
+    "title": "Alternance Support Informatique N2 - N3 H/F",
+    "company": "NEXA Digital School",
+    "location": "Lille - 59",
+    "contract": "Alternance",
+    "salary": "800 - 1 823,03 € / mois",
+    "url": "https://www.hellowork.com/fr-fr/emplois/77288749.html"
+  },
+  {
+    "title": "Alternance - Support Informatique- Tssr À Rennes H/F",
+    "company": "SCHOLA NOVA",
+    "location": "Rennes - Paris",
+    "contract": "Alternance",
+    "url": "https://www.hellowork.com/fr-fr/emplois/77293107.html"
   },
   {
     "title": "Alternance - Support Informatique- Tssr - Tssr H/F",
     "company": "SCHOLA NOVA",
     "location": "Île-de-France",
     "contract": "Alternance",
-    "salary": "Non spécifié",
     "url": "https://www.hellowork.com/fr-fr/emplois/77073382.html"
   },
   {
-    "title": "Alternance -Service s Informatiques aux Organisation- BTS Sio H/F",
-    "company": "MyDigitalSchool Angers",
-    "location": "Angers - 49",
-    "contract": "Alternance",
-    "salary": "486,49 - 1 801,80 € / mois",
-    "url": "https://www.hellowork.com/fr-fr/emplois/76016174.html"
-  },
-  {
-    "title": "Alternance - Informatique - Intelligence Artificielle H/F",
-    "company": "Eiffage Energie Systèmes",
-    "location": "Saint-Priest - 69",
+    "title": "Alternance Contrôleur de Gestion Informatique H/F",
+    "company": "Bouygues Telecom",
+    "location": "Meudon la Forêt - 92",
     "contract": "Alternance",
     "salary": "492,22 - 1 823,03 € / mois",
-    "url": "https://www.hellowork.com/fr-fr/emplois/77423690.html"
+    "url": "https://www.hellowork.com/fr-fr/emplois/77500199.html"
   },
   {
-    "title": "Alternance Support Informatique et Projets IT - Paris H/F",
-    "company": "ISCOD",
-    "location": "Paris 1er - 75",
+    "title": "Alternance - Informatique Scientifique Calcul Haute Performance Logiciels de Simulation H/F",
+    "company": "Safran",
+    "location": "Bordes - 64",
     "contract": "Alternance",
     "salary": "492,22 - 1 823,03 € / mois",
-    "url": "https://www.hellowork.com/fr-fr/emplois/77094937.html"
-  },
-  {
-    "title": "Alternance - Support Informatique H/F",
-    "company": "IRUP",
-    "location": "Loire - 42",
-    "contract": "Alternance",
-    "salary": "Non spécifié",
-    "url": "https://www.hellowork.com/fr-fr/emplois/76520825.html"
+    "url": "https://www.hellowork.com/fr-fr/emplois/76846609.html"
   },
   {
     "title": "Alternance - Assistant Sécurité Informatique - BTS S.I.O H/F",
@@ -152,27 +141,49 @@
     "url": "https://www.hellowork.com/fr-fr/emplois/77343264.html"
   },
   {
-    "title": "Alternance - Spécialiste Informatique Industrielle F - M - X - Sainte-Colombe-En-Bruilhois 47 H/F",
-    "company": "Saur Europe",
-    "location": "Agen - 47",
+    "title": "Talent Recruiter - Domaine de l'Informatique Alternance H/F",
+    "company": "BlueDocker",
+    "location": "Villeurbanne - 69",
     "contract": "Alternance",
     "salary": "492,22 - 1 823,03 € / mois",
-    "url": "https://www.hellowork.com/fr-fr/emplois/76139304.html"
+    "url": "https://www.hellowork.com/fr-fr/emplois/76346744.html"
   },
   {
-    "title": "Alternance - Maintien en Sécurité Informatique H/F",
-    "company": "Groupe ADP",
-    "location": "Roissy-en-France - 95",
+    "title": "Talent Recruiter - Domaine de l'Informatique Alternance H/F",
+    "company": "Silkhom",
+    "location": "Villeurbanne - 69",
     "contract": "Alternance",
     "salary": "492,22 - 1 823,03 € / mois",
-    "url": "https://www.hellowork.com/fr-fr/emplois/77592340.html"
+    "url": "https://www.hellowork.com/fr-fr/emplois/76347355.html"
+  },
+  {
+    "title": "Alternance - Support Informatique H/F",
+    "company": "IRUP",
+    "location": "Loire - 42",
+    "contract": "Alternance",
+    "url": "https://www.hellowork.com/fr-fr/emplois/76520825.html"
+  },
+  {
+    "title": "Alternance Support Informatique et Projets IT - Paris H/F",
+    "company": "ISCOD",
+    "location": "Paris 1er - 75",
+    "contract": "Alternance",
+    "salary": "492,22 - 1 823,03 € / mois",
+    "url": "https://www.hellowork.com/fr-fr/emplois/77094937.html"
+  },
+  {
+    "title": "Alternance -Service s Informatiques aux Organisation- BTS Sio H/F",
+    "company": "MyDigitalSchool Angers",
+    "location": "Angers - 49",
+    "contract": "Alternance",
+    "salary": "486,49 - 1 801,80 € / mois",
+    "url": "https://www.hellowork.com/fr-fr/emplois/76016174.html"
   },
   {
     "title": "Alternance Technicien Informatique H/F",
     "company": "Daher",
     "location": "Montoir-de-Bretagne - 44",
     "contract": "Alternance",
-    "salary": "Non spécifié",
     "url": "https://www.hellowork.com/fr-fr/emplois/77405830.html"
   },
   {
@@ -188,23 +199,13 @@
     "company": "Groupe Bigard",
     "location": "Cholet - 49",
     "contract": "Alternance",
-    "salary": "Non spécifié",
     "url": "https://www.hellowork.com/fr-fr/emplois/76222585.html"
-  },
-  {
-    "title": "Alternance - - Ingénieur Production - Parc Informatique H/F",
-    "company": "BPCE Infogérance & Technologies",
-    "location": "Villeurbanne - 69",
-    "contract": "Alternance",
-    "salary": "492,22 - 1 823,03 € / mois",
-    "url": "https://www.hellowork.com/fr-fr/emplois/76272747.html"
   },
   {
     "title": "Alternance - Maitrise d'Ouvrage Informatique H/F",
     "company": "Plurial Novilia",
     "location": "Reims - 51",
     "contract": "Alternance",
-    "salary": "Non spécifié",
     "url": "https://www.hellowork.com/fr-fr/emplois/77301563.html"
   },
   {
@@ -216,12 +217,28 @@
     "url": "https://www.hellowork.com/fr-fr/emplois/77277383.html"
   },
   {
-    "title": "Alternance - Gestionnaire en Matériel Informatique - Logiciels et Téléphonie H/F",
-    "company": "Crédit Mutuel Alliance Fédérale",
-    "location": "Nantes - 44",
+    "title": "Alternance Informatique - Cybersécurité - Data - Roissy-En-France H/F",
+    "company": "ISCOD",
+    "location": "Roissy-en-France - 95",
     "contract": "Alternance",
-    "salary": "15 000 - 25 000 € / an",
-    "url": "https://www.hellowork.com/fr-fr/emplois/76864078.html"
+    "salary": "492,22 - 1 823,03 € / mois",
+    "url": "https://www.hellowork.com/fr-fr/emplois/76509090.html"
+  },
+  {
+    "title": "Alternance - Systèmes et Réseaux Informatique Industrielle H/F",
+    "company": "Framatome",
+    "location": "Romans-sur-Isère - 26",
+    "contract": "Alternance",
+    "salary": "492,22 - 1 823,03 € / mois",
+    "url": "https://www.hellowork.com/fr-fr/emplois/75807198.html"
+  },
+  {
+    "title": "Alternance - Systèmes et Réseaux Informatique Industrielle H/F",
+    "company": "Framatome",
+    "location": "Romans-sur-Isère - 26",
+    "contract": "Alternance",
+    "salary": "492,22 - 1 823,03 € / mois",
+    "url": "https://www.hellowork.com/fr-fr/emplois/75807198.html"
   },
   {
     "title": "Alternance - Ingénieur Informatique H/F",
@@ -236,7 +253,6 @@
     "company": "Groupe Bigard",
     "location": "Cherré-Au - 72",
     "contract": "Alternance",
-    "salary": "Non spécifié",
     "url": "https://www.hellowork.com/fr-fr/emplois/77143528.html"
   },
   {
@@ -248,14 +264,6 @@
     "url": "https://www.hellowork.com/fr-fr/emplois/77610742.html"
   },
   {
-    "title": "Alternance - Spécialiste Informatique Industrielle F - M - X - Maurepas 78 H/F",
-    "company": "Saur Europe",
-    "location": "Maurepas - 78",
-    "contract": "Alternance",
-    "salary": "492,22 - 1 823,03 € / mois",
-    "url": "https://www.hellowork.com/fr-fr/emplois/75631454.html"
-  },
-  {
     "title": "Alternance - Technicien Informatique H/F",
     "company": "Studi CFA",
     "location": "Guyancourt - 78",
@@ -264,36 +272,19 @@
     "url": "https://www.hellowork.com/fr-fr/emplois/72735325.html"
   },
   {
-    "title": "Alternance - Spécialiste Informatique Industrielle F - M - X - Vannes 56 H/F",
+    "title": "Alternance - Spécialiste Informatique Industrielle F - M - X - Sainte-Colombe-En-Bruilhois 47 H/F",
     "company": "Saur Europe",
-    "location": "Vannes - 56",
+    "location": "Agen - 47",
     "contract": "Alternance",
     "salary": "492,22 - 1 823,03 € / mois",
-    "url": "https://www.hellowork.com/fr-fr/emplois/76762202.html"
+    "url": "https://www.hellowork.com/fr-fr/emplois/76139304.html"
   },
   {
-    "title": "Alternance - Systèmes et Réseaux Informatique Industrielle H/F",
-    "company": "Framatome",
-    "location": "Romans-sur-Isère - 26",
+    "title": "Alternance - Technicien·ne Informatique H/F",
+    "company": "IA Formation Saint-Nazaire",
+    "location": "Saint-Nazaire - 44",
     "contract": "Alternance",
-    "salary": "492,22 - 1 823,03 € / mois",
-    "url": "https://www.hellowork.com/fr-fr/emplois/75807198.html"
-  },
-  {
-    "title": "Alternance - Assistant Cybersécurité Informatique - BTS S.I.O H/F",
-    "company": "Aurlom",
-    "location": "Paris - 75",
-    "contract": "Alternance",
-    "salary": "400 - 1 400 € / mois",
-    "url": "https://www.hellowork.com/fr-fr/emplois/77342886.html"
-  },
-  {
-    "title": "Alternance - Correspondant Informatique et Telecom H/F",
-    "company": "ENGIE",
-    "location": "La Garenne-Colombes - 92",
-    "contract": "Alternance",
-    "salary": "492,22 - 1 823,03 € / mois",
-    "url": "https://www.hellowork.com/fr-fr/emplois/77415531.html"
+    "url": "https://www.hellowork.com/fr-fr/emplois/77024027.html"
   },
   {
     "title": "Alternance Technicien Informatique - Courbevoie H/F",
@@ -304,6 +295,14 @@
     "url": "https://www.hellowork.com/fr-fr/emplois/77573059.html"
   },
   {
+    "title": "Alternance - Correspondant Informatique et Telecom H/F",
+    "company": "ENGIE",
+    "location": "La Garenne-Colombes - 92",
+    "contract": "Alternance",
+    "salary": "492,22 - 1 823,03 € / mois",
+    "url": "https://www.hellowork.com/fr-fr/emplois/77415531.html"
+  },
+  {
     "title": "Alternance Technicien Informatique - Nice H/F",
     "company": "ISCOD",
     "location": "Nice - 06",
@@ -312,20 +311,12 @@
     "url": "https://www.hellowork.com/fr-fr/emplois/77450933.html"
   },
   {
-    "title": "Alternance - Technicien·ne Informatique H/F",
-    "company": "IA Formation Saint-Nazaire",
-    "location": "Saint-Nazaire - 44",
+    "title": "Alternance Développeur Informatique H/F",
+    "company": "ArcelorMittal France",
+    "location": "Dunkerque - 59",
     "contract": "Alternance",
-    "salary": "Non spécifié",
-    "url": "https://www.hellowork.com/fr-fr/emplois/77024027.html"
-  },
-  {
-    "title": "Alternance - Assistant Technicien en Informatique Industrielle - BTS C.I.E.L H/F",
-    "company": "Aurlom",
-    "location": "Paris - 75",
-    "contract": "Alternance",
-    "salary": "400 - 1 400 € / mois",
-    "url": "https://www.hellowork.com/fr-fr/emplois/76379167.html"
+    "salary": "492,22 - 1 823,03 € / mois",
+    "url": "https://www.hellowork.com/fr-fr/emplois/76980577.html"
   },
   {
     "title": "Alternance Technicien Informatique - Hyères H/F",
@@ -336,12 +327,12 @@
     "url": "https://www.hellowork.com/fr-fr/emplois/77362389.html"
   },
   {
-    "title": "Alternance Développeur Informatique H/F",
-    "company": "ArcelorMittal France",
-    "location": "Dunkerque - 59",
+    "title": "Alternance - - Ingénieur Production - Parc Informatique H/F",
+    "company": "BPCE Infogérance & Technologies",
+    "location": "Villeurbanne - 69",
     "contract": "Alternance",
     "salary": "492,22 - 1 823,03 € / mois",
-    "url": "https://www.hellowork.com/fr-fr/emplois/76980577.html"
+    "url": "https://www.hellowork.com/fr-fr/emplois/76272747.html"
   },
   {
     "title": "Alternance - Technicien Informatique Industrielle H/F",
@@ -360,22 +351,6 @@
     "url": "https://www.hellowork.com/fr-fr/emplois/76139336.html"
   },
   {
-    "title": "Alternance - Charge d'Etude Achat Informatique - Paris H/F",
-    "company": "SMABTP",
-    "location": "Paris - 75",
-    "contract": "Alternance",
-    "salary": "492,22 - 1 823,03 € / mois",
-    "url": "https://www.hellowork.com/fr-fr/emplois/76200540.html"
-  },
-  {
-    "title": "Alternance Responsable Informatique - Martigues H/F",
-    "company": "ISCOD",
-    "location": "Martigues - 13",
-    "contract": "Alternance",
-    "salary": "492,22 - 1 823,03 € / mois",
-    "url": "https://www.hellowork.com/fr-fr/emplois/76116439.html"
-  },
-  {
     "title": "Alternance Technicien Informatique - Versailles H/F",
     "company": "ISCOD",
     "location": "Versailles - 78",
@@ -384,12 +359,12 @@
     "url": "https://www.hellowork.com/fr-fr/emplois/77297248.html"
   },
   {
-    "title": "Alternance Informatique Shoploor H/F",
-    "company": "Groupe SEB",
-    "location": "Annecy - 74",
+    "title": "Alternance Responsable Informatique - Martigues H/F",
+    "company": "ISCOD",
+    "location": "Martigues - 13",
     "contract": "Alternance",
-    "salary": "20 000 € / an",
-    "url": "https://www.hellowork.com/fr-fr/emplois/75343293.html"
+    "salary": "492,22 - 1 823,03 € / mois",
+    "url": "https://www.hellowork.com/fr-fr/emplois/76116439.html"
   },
   {
     "title": "Alternance Technicien Informatique - Lissieu H/F",
@@ -408,20 +383,28 @@
     "url": "https://www.hellowork.com/fr-fr/emplois/75999379.html"
   },
   {
-    "title": "Alternance - Technicien Informatique en Entreprise - BTS C.I.E.L H/F",
-    "company": "Aurlom",
-    "location": "Paris - 75",
+    "title": "Alternance - Spécialiste Informatique Industrielle F - M - X - Maurepas 78 H/F",
+    "company": "Saur Europe",
+    "location": "Maurepas - 78",
     "contract": "Alternance",
-    "salary": "400 - 1 700 € / mois",
-    "url": "https://www.hellowork.com/fr-fr/emplois/76379670.html"
+    "salary": "492,22 - 1 823,03 € / mois",
+    "url": "https://www.hellowork.com/fr-fr/emplois/75631454.html"
   },
   {
-    "title": "Formation en Alternance - Technicien Informatique de Proximité - 25213 H/F",
-    "company": "AFPA Entreprises",
-    "location": "Orléans - 45",
+    "title": "Alternance - Spécialiste Informatique Industrielle F - M - X - Vannes 56 H/F",
+    "company": "Saur Europe",
+    "location": "Vannes - 56",
     "contract": "Alternance",
-    "salary": "Non spécifié",
-    "url": "https://www.hellowork.com/fr-fr/emplois/77437992.html"
+    "salary": "492,22 - 1 823,03 € / mois",
+    "url": "https://www.hellowork.com/fr-fr/emplois/76762202.html"
+  },
+  {
+    "title": "Alternance - Technicien de Maintenance Automatismes et Informatique Industrielle H/F",
+    "company": "RTE",
+    "location": "Clermont-Ferrand - 63",
+    "contract": "Alternance",
+    "salary": "820 - 1 823 € / mois",
+    "url": "https://www.hellowork.com/fr-fr/emplois/76109947.html"
   },
   {
     "title": "Alternance Technicien Informatique Polyvalent - Paris H/F",
@@ -432,28 +415,12 @@
     "url": "https://www.hellowork.com/fr-fr/emplois/76235959.html"
   },
   {
-    "title": "Alternance - Technicien Informatique en Collectivité - BTS S.I.O H/F",
+    "title": "Alternance - Technicien Informatique - BTS S.I.O H/F",
     "company": "Aurlom",
     "location": "Paris - 75",
     "contract": "Alternance",
     "salary": "400 - 1 400 € / mois",
-    "url": "https://www.hellowork.com/fr-fr/emplois/77342107.html"
-  },
-  {
-    "title": "Alternance - Technicien Informatique en Entreprise - BTS S.I.O H/F",
-    "company": "Aurlom",
-    "location": "Paris - 75",
-    "contract": "Alternance",
-    "salary": "400 - 1 400 € / mois",
-    "url": "https://www.hellowork.com/fr-fr/emplois/77343260.html"
-  },
-  {
-    "title": "Alternance - Technicien Informatique en Entreprise - BTS S.I.O H/F",
-    "company": "Aurlom",
-    "location": "Paris - 75",
-    "contract": "Alternance",
-    "salary": "400 - 1 400 € / mois",
-    "url": "https://www.hellowork.com/fr-fr/emplois/77343782.html"
+    "url": "https://www.hellowork.com/fr-fr/emplois/77335069.html"
   },
   {
     "title": "Alternance Technicien Informatique - les Herbiers H/F",
@@ -464,20 +431,20 @@
     "url": "https://www.hellowork.com/fr-fr/emplois/75873193.html"
   },
   {
-    "title": "Alternance - Technicien Informatique - BTS S.I.O H/F",
-    "company": "Aurlom",
+    "title": "Alternance - Charge d'Etude Achat Informatique - Paris H/F",
+    "company": "SMABTP",
     "location": "Paris - 75",
     "contract": "Alternance",
-    "salary": "400 - 1 400 € / mois",
-    "url": "https://www.hellowork.com/fr-fr/emplois/77335069.html"
+    "salary": "492,22 - 1 823,03 € / mois",
+    "url": "https://www.hellowork.com/fr-fr/emplois/76200540.html"
   },
   {
-    "title": "Alternance - Assistant Informatique en Transport - BTS S.I.O H/F",
-    "company": "Aurlom",
-    "location": "Paris - 75",
+    "title": "Alternance - - Ingénieur Production Informatique H/F",
+    "company": "BPCE Infogérance & Technologies",
+    "location": "Saint-Herblain - 44",
     "contract": "Alternance",
-    "salary": "400 - 1 400 € / mois",
-    "url": "https://www.hellowork.com/fr-fr/emplois/77343261.html"
+    "salary": "492,22 - 1 823,03 € / mois",
+    "url": "https://www.hellowork.com/fr-fr/emplois/76155667.html"
   },
   {
     "title": "Alternance - Assistant Informatique - BTS S.I.O H/F",
@@ -512,12 +479,12 @@
     "url": "https://www.hellowork.com/fr-fr/emplois/77591172.html"
   },
   {
-    "title": "Alternance Technicien Informatique Réseau et Vidéosurveillance - Appoigny H/F",
-    "company": "ISCOD",
-    "location": "Appoigny - 89",
+    "title": "Alternance - Développeur Commercial Btob - Solutions Informatiques H/F",
+    "company": "CFA IFCDis",
+    "location": "Bédarieux - 34",
     "contract": "Alternance",
-    "salary": "486,49 - 1 801,80 € / mois",
-    "url": "https://www.hellowork.com/fr-fr/emplois/75176913.html"
+    "salary": "492,22 - 1 823,03 € / mois",
+    "url": "https://www.hellowork.com/fr-fr/emplois/77322952.html"
   },
   {
     "title": "Alternance - Ingénieur·e Informatique Industrielle H/F",
@@ -528,20 +495,19 @@
     "url": "https://www.hellowork.com/fr-fr/emplois/76876071.html"
   },
   {
-    "title": "Alternance - Ingénieur Informatique et IA - Analyse d'Images H/F",
-    "company": "Ifremer",
-    "location": "Brest - 29",
+    "title": "Formation en Alternance - Technicien Informatique de Proximité - 25213 H/F",
+    "company": "AFPA Entreprises",
+    "location": "Orléans - 45",
     "contract": "Alternance",
-    "salary": "Non spécifié",
-    "url": "https://www.hellowork.com/fr-fr/emplois/77405887.html"
+    "url": "https://www.hellowork.com/fr-fr/emplois/77437992.html"
   },
   {
-    "title": "Alternance But Geii - Automatisme Informatique Industrielle en Alternance H/F",
-    "company": "GERARD PERRIER INDUSTRIE",
-    "location": "Belley - 01",
+    "title": "Alternance - Technicien Informatique en Entreprise - BTS C.I.E.L H/F",
+    "company": "Aurlom",
+    "location": "Paris - 75",
     "contract": "Alternance",
-    "salary": "492,22 - 1 823,03 € / mois",
-    "url": "https://www.hellowork.com/fr-fr/emplois/77086637.html"
+    "salary": "400 - 1 700 € / mois",
+    "url": "https://www.hellowork.com/fr-fr/emplois/76379670.html"
   },
   {
     "title": "Alternance - Correspondant Informatique H/F",
@@ -550,6 +516,84 @@
     "contract": "Alternance",
     "salary": "492,22 - 1 823,03 € / mois",
     "url": "https://www.hellowork.com/fr-fr/emplois/76691834.html"
+  },
+  {
+    "title": "Alternance Technicien Informatique Réseau et Vidéosurveillance - Appoigny H/F",
+    "company": "ISCOD",
+    "location": "Appoigny - 89",
+    "contract": "Alternance",
+    "salary": "486,49 - 1 801,80 € / mois",
+    "url": "https://www.hellowork.com/fr-fr/emplois/75176913.html"
+  },
+  {
+    "title": "Alternance - Ingénieur Informatique et IA - Analyse d'Images H/F",
+    "company": "Ifremer",
+    "location": "Brest - 29",
+    "contract": "Alternance",
+    "url": "https://www.hellowork.com/fr-fr/emplois/77405887.html"
+  },
+  {
+    "title": "Ingénieur d'Affaires en Informatique Alternance H/F",
+    "company": "Objectware",
+    "location": "Paris - 75",
+    "contract": "Alternance",
+    "url": "https://www.hellowork.com/fr-fr/emplois/77053351.html"
+  },
+  {
+    "title": "Alternance - Gestionnaire en Matériel Informatique - Logiciels et Téléphonie H/F",
+    "company": "Crédit Mutuel Alliance Fédérale",
+    "location": "Nantes - 44",
+    "contract": "Alternance",
+    "salary": "15 000 - 25 000 € / an",
+    "url": "https://www.hellowork.com/fr-fr/emplois/76864078.html"
+  },
+  {
+    "title": "Alternance - Assistant Technicien en Informatique Industrielle - BTS C.I.E.L H/F",
+    "company": "Aurlom",
+    "location": "Paris - 75",
+    "contract": "Alternance",
+    "salary": "400 - 1 400 € / mois",
+    "url": "https://www.hellowork.com/fr-fr/emplois/76379167.html"
+  },
+  {
+    "title": "Alternance - Technicien Informatique H/F",
+    "company": "NGE – Nouvelles Générations d’Entrepreneurs",
+    "location": "Saint-Étienne-du-Grès - 13",
+    "contract": "Alternance",
+    "salary": "492,22 - 1 823,03 € / mois",
+    "url": "https://www.hellowork.com/fr-fr/emplois/76654864.html"
+  },
+  {
+    "title": "Alternance - Technicien de Maintenance Automatismes et Informatique Industrielle H/F",
+    "company": "RTE",
+    "location": "La Vaupalière - 76",
+    "contract": "Alternance",
+    "salary": "820 - 1 823 € / mois",
+    "url": "https://www.hellowork.com/fr-fr/emplois/75830401.html"
+  },
+  {
+    "title": "Alternance - Technicien Informatique en Entreprise - BTS S.I.O H/F",
+    "company": "Aurlom",
+    "location": "Paris - 75",
+    "contract": "Alternance",
+    "salary": "400 - 1 400 € / mois",
+    "url": "https://www.hellowork.com/fr-fr/emplois/77343260.html"
+  },
+  {
+    "title": "Alternance - Technicien Informatique en Collectivité - BTS S.I.O H/F",
+    "company": "Aurlom",
+    "location": "Paris - 75",
+    "contract": "Alternance",
+    "salary": "400 - 1 400 € / mois",
+    "url": "https://www.hellowork.com/fr-fr/emplois/77342107.html"
+  },
+  {
+    "title": "Alternance - Technicien Informatique en Entreprise - BTS S.I.O H/F",
+    "company": "Aurlom",
+    "location": "Paris - 75",
+    "contract": "Alternance",
+    "salary": "400 - 1 400 € / mois",
+    "url": "https://www.hellowork.com/fr-fr/emplois/77343782.html"
   },
   {
     "title": "Alternance - Ingénieur Informatique et Intelligence Artificielle H/F",
@@ -568,46 +612,6 @@
     "url": "https://www.hellowork.com/fr-fr/emplois/76087826.html"
   },
   {
-    "title": "Alternance - Assistant Informatique en Établissement Scolaire - BTS S.I.O H/F",
-    "company": "Aurlom",
-    "location": "Paris - 75",
-    "contract": "Alternance",
-    "salary": "400 - 1 400 € / mois",
-    "url": "https://www.hellowork.com/fr-fr/emplois/77344346.html"
-  },
-  {
-    "title": "Alternance - Technicien de Maintenance Automatismes et Informatique Industrielle H/F",
-    "company": "RTE",
-    "location": "Clermont-Ferrand - 63",
-    "contract": "Alternance",
-    "salary": "820 - 1 823 € / mois",
-    "url": "https://www.hellowork.com/fr-fr/emplois/76109947.html"
-  },
-  {
-    "title": "Alternance - Technicien Informatique H/F",
-    "company": "NGE – Nouvelles Générations d’Entrepreneurs",
-    "location": "Saint-Étienne-du-Grès - 13",
-    "contract": "Alternance",
-    "salary": "492,22 - 1 823,03 € / mois",
-    "url": "https://www.hellowork.com/fr-fr/emplois/76654864.html"
-  },
-  {
-    "title": "Alternance - Développeur Commercial Btob - Solutions Informatiques H/F",
-    "company": "CFA IFCDis",
-    "location": "Bédarieux - 34",
-    "contract": "Alternance",
-    "salary": "492,22 - 1 823,03 € / mois",
-    "url": "https://www.hellowork.com/fr-fr/emplois/77322952.html"
-  },
-  {
-    "title": "Alternance - Appui au Développement Informatique H/F",
-    "company": "RTE",
-    "location": "Marseille 15e - 13",
-    "contract": "Alternance",
-    "salary": "1 422 - 1 823 € / mois",
-    "url": "https://www.hellowork.com/fr-fr/emplois/76697076.html"
-  },
-  {
     "title": "Alternance - Assistant Informatique - Bac+1 - 2 H/F",
     "company": "ESICAD Toulouse",
     "location": "Toulouse - 31",
@@ -624,132 +628,20 @@
     "url": "https://www.hellowork.com/fr-fr/emplois/77158748.html"
   },
   {
+    "title": "Alternance - Assistant Informatique en Transport - BTS S.I.O H/F",
+    "company": "Aurlom",
+    "location": "Paris - 75",
+    "contract": "Alternance",
+    "salary": "400 - 1 400 € / mois",
+    "url": "https://www.hellowork.com/fr-fr/emplois/77343261.html"
+  },
+  {
     "title": "Alternance Développeur Informatique - Réalité Virtuelle - Vélizy-Villacoublay H/F",
     "company": "ISCOD",
     "location": "Vélizy-Villacoublay - 78",
     "contract": "Alternance",
     "salary": "492,22 - 1 823,03 € / mois",
     "url": "https://www.hellowork.com/fr-fr/emplois/77422993.html"
-  },
-  {
-    "title": "Alternance - Ingénieur Automatisme et Informatique Industrielle H/F",
-    "company": "Framatome",
-    "location": "Lyon - 69",
-    "contract": "Alternance",
-    "salary": "492,22 - 1 823,03 € / mois",
-    "url": "https://www.hellowork.com/fr-fr/emplois/76608798.html"
-  },
-  {
-    "title": "Alternance - Technicien Informatique Secteur Santé - BTS S.I.O H/F",
-    "company": "Aurlom",
-    "location": "Paris - 75",
-    "contract": "Alternance",
-    "salary": "400 - 1 400 € / mois",
-    "url": "https://www.hellowork.com/fr-fr/emplois/77344166.html"
-  },
-  {
-    "title": "Alternance Gestion de Projet Informatique - MOA Salesforce H/F",
-    "company": "Business France",
-    "location": "Paris 14e - 75",
-    "contract": "Alternance",
-    "salary": "492,22 - 1 823,03 € / mois",
-    "url": "https://www.hellowork.com/fr-fr/emplois/75807275.html"
-  },
-  {
-    "title": "Alternance - - Ingénieur Production Informatique H/F",
-    "company": "BPCE Infogérance & Technologies",
-    "location": "Saint-Herblain - 44",
-    "contract": "Alternance",
-    "salary": "492,22 - 1 823,03 € / mois",
-    "url": "https://www.hellowork.com/fr-fr/emplois/76155667.html"
-  },
-  {
-    "title": "Alternance - Commercial Informatique - Manager Ingenierie d'Affaires Bac+5 H/F",
-    "company": "FACULTE DES METIERS – CAMPUS DE RENNES",
-    "location": "Rennes - 35",
-    "contract": "Alternance",
-    "salary": "492,20 - 1 823,04 € / mois",
-    "url": "https://www.hellowork.com/fr-fr/emplois/77234167.html"
-  },
-  {
-    "title": "Alternance - Assistant Informatique dans un Établissement Scolaire - BTS S.I.O H/F",
-    "company": "Aurlom",
-    "location": "Paris - 75",
-    "contract": "Alternance",
-    "salary": "400 - 1 700 € / mois",
-    "url": "https://www.hellowork.com/fr-fr/emplois/77343780.html"
-  },
-  {
-    "title": "Alternance - Commercial Itinérant Junior en Informatique H/F",
-    "company": "Avenir en perspective Côte d'Azur",
-    "location": "Antibes - 06",
-    "contract": "Alternance",
-    "salary": "784 - 966 € / mois",
-    "url": "https://www.hellowork.com/fr-fr/emplois/75875668.html"
-  },
-  {
-    "title": "Alternance - Technicien de Maintenance Automatismes et Informatique Industrielle H/F",
-    "company": "RTE",
-    "location": "La Vaupalière - 76",
-    "contract": "Alternance",
-    "salary": "820 - 1 823 € / mois",
-    "url": "https://www.hellowork.com/fr-fr/emplois/75830401.html"
-  },
-  {
-    "title": "Alternance - Technicien Informatique H/F",
-    "company": "Studi CFA",
-    "location": "Lyon 2e - 69",
-    "contract": "Alternance",
-    "salary": "492,22 - 1 823,03 € / mois",
-    "url": "https://www.hellowork.com/fr-fr/emplois/76566243.html"
-  },
-  {
-    "title": "Alternance Conseiller Informatique Polyvalent - Écully H/F",
-    "company": "ISCOD",
-    "location": "Écully - 69",
-    "contract": "Alternance",
-    "salary": "492,22 - 1 823,03 € / mois",
-    "url": "https://www.hellowork.com/fr-fr/emplois/76818528.html"
-  },
-  {
-    "title": "Alternance Gestion de Projet Informatique MOA Plateformes H/F",
-    "company": "Business France",
-    "location": "Paris 14e - 75",
-    "contract": "Alternance",
-    "salary": "492,22 - 1 823,03 € / mois",
-    "url": "https://www.hellowork.com/fr-fr/emplois/75757738.html"
-  },
-  {
-    "title": "Alternance - Gestion de Projet Informatique MOA SIRH H/F",
-    "company": "Business France",
-    "location": "Paris 14e - 75",
-    "contract": "Alternance",
-    "salary": "492,22 - 1 823,03 € / mois",
-    "url": "https://www.hellowork.com/fr-fr/emplois/75697068.html"
-  },
-  {
-    "title": "Alternance - Informatique Scientifique Calcul Haute Performance Logiciels de Simulation H/F",
-    "company": "Safran",
-    "location": "Bordes - 64",
-    "contract": "Alternance",
-    "salary": "492,22 - 1 823,03 € / mois",
-    "url": "https://www.hellowork.com/fr-fr/emplois/76846609.html"
-  },
-  {
-    "title": "Alternance Développeur Informatique H/F",
-    "company": "Sup de Vinci Rennes",
-    "location": "Saint-Malo - 35",
-    "contract": "Alternance",
-    "salary": "Non spécifié",
-    "url": "https://www.hellowork.com/fr-fr/emplois/75295154.html"
-  },
-  {
-    "title": "Alternance - Ingénieur Informatique Industrielle et Scientifique H/F",
-    "company": "Framatome",
-    "location": "Cadarache - 13",
-    "contract": "Alternance",
-    "salary": "492,22 - 1 823,03 € / mois",
-    "url": "https://www.hellowork.com/fr-fr/emplois/76706532.html"
   },
   {
     "title": "Support Informatique en Alternance H/F",
@@ -760,12 +652,28 @@
     "url": "https://www.hellowork.com/fr-fr/emplois/77435674.html"
   },
   {
-    "title": "Alternance Informatique - Cybersécurité - Data - Roissy-En-France H/F",
-    "company": "ISCOD",
-    "location": "Roissy-en-France - 95",
+    "title": "Commercial en Solutions Informatiques Alternance H/F",
+    "company": "Prisma Formations",
+    "location": "Seine-Saint-Denis - 93",
+    "contract": "Alternance",
+    "salary": "1 823,03 € / mois",
+    "url": "https://www.hellowork.com/fr-fr/emplois/76382551.html"
+  },
+  {
+    "title": "Alternance - Technicien Informatique Secteur Santé - BTS S.I.O H/F",
+    "company": "Aurlom",
+    "location": "Paris - 75",
+    "contract": "Alternance",
+    "salary": "400 - 1 400 € / mois",
+    "url": "https://www.hellowork.com/fr-fr/emplois/77344166.html"
+  },
+  {
+    "title": "Ingénieur Informatique - Alternance H/F",
+    "company": "Eiffage Energie Systèmes",
+    "location": "Villefontaine - 38",
     "contract": "Alternance",
     "salary": "492,22 - 1 823,03 € / mois",
-    "url": "https://www.hellowork.com/fr-fr/emplois/76509090.html"
+    "url": "https://www.hellowork.com/fr-fr/emplois/76747414.html"
   },
   {
     "title": "Nantes - Alternance Tip - Technicien Informatique Proximité H/F",
@@ -776,14 +684,6 @@
     "url": "https://www.hellowork.com/fr-fr/emplois/77143101.html"
   },
   {
-    "title": "Alternance - Ingénieur Informatique Outils Projets H/F",
-    "company": "Framatome",
-    "location": "Lyon - 69",
-    "contract": "Alternance",
-    "salary": "492,22 - 1 823,03 € / mois",
-    "url": "https://www.hellowork.com/fr-fr/emplois/76641329.html"
-  },
-  {
     "title": "Angers - Alternance Tip - Technicien Informatique Proximité H/F",
     "company": "HELPLINE",
     "location": "Angers - 49",
@@ -792,20 +692,36 @@
     "url": "https://www.hellowork.com/fr-fr/emplois/77143134.html"
   },
   {
-    "title": "Alternance Gestion de Projet Informatique MOA Finances SAP H/F",
-    "company": "Business France",
-    "location": "Paris 14e - 75",
+    "title": "Alternance - Commercial Informatique - Manager Ingenierie d'Affaires Bac+5 H/F",
+    "company": "FACULTE DES METIERS – CAMPUS DE RENNES",
+    "location": "Rennes - 35",
     "contract": "Alternance",
-    "salary": "492,22 - 1 823,03 € / mois",
-    "url": "https://www.hellowork.com/fr-fr/emplois/75765920.html"
+    "salary": "492,20 - 1 823,04 € / mois",
+    "url": "https://www.hellowork.com/fr-fr/emplois/77234167.html"
   },
   {
-    "title": "Alternance - Technicien Informatique Industrielle H/F",
-    "company": "Framatome",
-    "location": "Jarrie - 38",
+    "title": "Alternance - Assistant Informatique en Établissement Scolaire - BTS S.I.O H/F",
+    "company": "Aurlom",
+    "location": "Paris - 75",
+    "contract": "Alternance",
+    "salary": "400 - 1 400 € / mois",
+    "url": "https://www.hellowork.com/fr-fr/emplois/77344346.html"
+  },
+  {
+    "title": "Alternance - Technicien Informatique H/F",
+    "company": "Studi CFA",
+    "location": "Lyon 2e - 69",
     "contract": "Alternance",
     "salary": "492,22 - 1 823,03 € / mois",
-    "url": "https://www.hellowork.com/fr-fr/emplois/76553242.html"
+    "url": "https://www.hellowork.com/fr-fr/emplois/76566243.html"
+  },
+  {
+    "title": "Alternance - Assistant Informatique dans un Établissement Scolaire - BTS S.I.O H/F",
+    "company": "Aurlom",
+    "location": "Paris - 75",
+    "contract": "Alternance",
+    "salary": "400 - 1 700 € / mois",
+    "url": "https://www.hellowork.com/fr-fr/emplois/77343780.html"
   },
   {
     "title": "Alternance Technicien Support Informatique - Paris H/F",
@@ -816,20 +732,27 @@
     "url": "https://www.hellowork.com/fr-fr/emplois/77212996.html"
   },
   {
-    "title": "Alternance - Développeur Informatique pour le Calcul Scientifique Hpc - Htc H/F",
-    "company": "Framatome",
-    "location": "Lyon - 69",
+    "title": "Alternance Conseiller Informatique Polyvalent - Écully H/F",
+    "company": "ISCOD",
+    "location": "Écully - 69",
     "contract": "Alternance",
     "salary": "492,22 - 1 823,03 € / mois",
-    "url": "https://www.hellowork.com/fr-fr/emplois/76785702.html"
+    "url": "https://www.hellowork.com/fr-fr/emplois/76818528.html"
   },
   {
-    "title": "Offre d'Alternance - Technicien Informatique - BTS Sio H/F",
-    "company": "MyDigitalSchool Alternance",
-    "location": "Angers - 49",
+    "title": "Alternance - Maintien en Sécurité Informatique H/F",
+    "company": "Groupe ADP",
+    "location": "Roissy-en-France - 95",
     "contract": "Alternance",
-    "salary": "Non spécifié",
-    "url": "https://www.hellowork.com/fr-fr/emplois/76639561.html"
+    "salary": "492,22 - 1 823,03 € / mois",
+    "url": "https://www.hellowork.com/fr-fr/emplois/77592340.html"
+  },
+  {
+    "title": "Alternance Développeur Informatique H/F",
+    "company": "Sup de Vinci Rennes",
+    "location": "Saint-Malo - 35",
+    "contract": "Alternance",
+    "url": "https://www.hellowork.com/fr-fr/emplois/75295154.html"
   },
   {
     "title": "Alternance - Technicien de Maintenance Automatismes et Informatique Industrielle H/F",
@@ -840,20 +763,12 @@
     "url": "https://www.hellowork.com/fr-fr/emplois/75238501.html"
   },
   {
-    "title": "Alternance - Gestionnaire de Projets Informatiques - BTS C.I.E.L H/F",
-    "company": "Aurlom",
-    "location": "Paris - 75",
+    "title": "Alternance - Ingénieur Automatisme et Informatique Industrielle H/F",
+    "company": "Framatome",
+    "location": "Lyon - 69",
     "contract": "Alternance",
-    "salary": "Non spécifié",
-    "url": "https://www.hellowork.com/fr-fr/emplois/76379270.html"
-  },
-  {
-    "title": "Alternance - Technicien Support Informatique - BTS S.I.O H/F",
-    "company": "Aurlom",
-    "location": "Paris - 75",
-    "contract": "Alternance",
-    "salary": "400 - 1 400 € / mois",
-    "url": "https://www.hellowork.com/fr-fr/emplois/77342120.html"
+    "salary": "492,22 - 1 823,03 € / mois",
+    "url": "https://www.hellowork.com/fr-fr/emplois/76608798.html"
   },
   {
     "title": "Alternance - Technicien Support Informatique - BTS S.I.O H/F",
@@ -876,24 +791,16 @@
     "company": "Aurlom",
     "location": "Paris - 75",
     "contract": "Alternance",
+    "salary": "400 - 1 400 € / mois",
+    "url": "https://www.hellowork.com/fr-fr/emplois/77342120.html"
+  },
+  {
+    "title": "Alternance - Technicien Support Informatique - BTS S.I.O H/F",
+    "company": "Aurlom",
+    "location": "Paris - 75",
+    "contract": "Alternance",
     "salary": "400 - 1 399,97 € / mois",
     "url": "https://www.hellowork.com/fr-fr/emplois/77343408.html"
-  },
-  {
-    "title": "Alternance Technicien Informatique de Proximité - Nice H/F",
-    "company": "ISCOD",
-    "location": "Nice - 06",
-    "contract": "Alternance",
-    "salary": "492,22 - 1 823,03 € / mois",
-    "url": "https://www.hellowork.com/fr-fr/emplois/76563780.html"
-  },
-  {
-    "title": "Alternance - Chargé d'Études Informatiques Orientation Base de Données et Outillage H/F",
-    "company": "Framatome",
-    "location": "Grenoble - 38",
-    "contract": "Alternance",
-    "salary": "492,22 - 1 823,03 € / mois",
-    "url": "https://www.hellowork.com/fr-fr/emplois/77463562.html"
   },
   {
     "title": "Alternance - Technicienne - Technicien Informatique Industriel - BTS Ciel H/F",
@@ -904,6 +811,14 @@
     "url": "https://www.hellowork.com/fr-fr/emplois/75192630.html"
   },
   {
+    "title": "Alternance - Ingénieur Informatique Industrielle et Scientifique H/F",
+    "company": "Framatome",
+    "location": "Cadarache - 13",
+    "contract": "Alternance",
+    "salary": "492,22 - 1 823,03 € / mois",
+    "url": "https://www.hellowork.com/fr-fr/emplois/76706532.html"
+  },
+  {
     "title": "Alternance Technicien Support Informatique - Angers H/F",
     "company": "ISCOD",
     "location": "Angers - 49",
@@ -912,84 +827,89 @@
     "url": "https://www.hellowork.com/fr-fr/emplois/76966187.html"
   },
   {
-    "title": "Alternance - Assistant Maintenance et Support Informatique - BTS S.I.O H/F",
-    "company": "Aurlom",
-    "location": "Paris - 75",
-    "contract": "Alternance",
-    "salary": "400 - 1 700 € / mois",
-    "url": "https://www.hellowork.com/fr-fr/emplois/77344167.html"
-  },
-  {
-    "title": "Alternance - Assistant Gestion de Parc Informatique - BTS S.I.O H/F",
-    "company": "Aurlom",
-    "location": "Paris - 75",
-    "contract": "Alternance",
-    "salary": "400 - 1 700 € / mois",
-    "url": "https://www.hellowork.com/fr-fr/emplois/77343972.html"
-  },
-  {
-    "title": "Alternance Chargé de Support Maintenance et Projets Informatique - Aubigny H/F",
-    "company": "ISCOD",
-    "location": "Aubigny - 80",
+    "title": "Alternance - Ingénieur Informatique Outils Projets H/F",
+    "company": "Framatome",
+    "location": "Lyon - 69",
     "contract": "Alternance",
     "salary": "492,22 - 1 823,03 € / mois",
-    "url": "https://www.hellowork.com/fr-fr/emplois/76139515.html"
+    "url": "https://www.hellowork.com/fr-fr/emplois/76641329.html"
   },
   {
-    "title": "Alternance - Chargé de Support Informatique - Applicatif H/F",
-    "company": "Daher",
-    "location": "Cornebarrieu - 31",
+    "title": "Alternance - Technicien Informatique Industrielle H/F",
+    "company": "Framatome",
+    "location": "Jarrie - 38",
     "contract": "Alternance",
-    "salary": "Non spécifié",
-    "url": "https://www.hellowork.com/fr-fr/emplois/77291052.html"
+    "salary": "492,22 - 1 823,03 € / mois",
+    "url": "https://www.hellowork.com/fr-fr/emplois/76553242.html"
   },
   {
-    "title": "Alternance - Technicien Informatique Support & Réseaux - BTS Sio - Bac+1 - 2 H/F",
-    "company": "ESICAD Toulouse",
-    "location": "Toulouse - 31",
-    "contract": "Alternance",
-    "salary": "784 - 1 823,03 € / mois",
-    "url": "https://www.hellowork.com/fr-fr/emplois/76784585.html"
-  },
-  {
-    "title": "Alternance - Assistant Support Technique Informatique - BTS C.I.E.L H/F",
+    "title": "Alternance - Gestionnaire de Projets Informatiques - BTS C.I.E.L H/F",
     "company": "Aurlom",
     "location": "Paris - 75",
     "contract": "Alternance",
-    "salary": "400 - 1 400 € / mois",
-    "url": "https://www.hellowork.com/fr-fr/emplois/76379216.html"
+    "url": "https://www.hellowork.com/fr-fr/emplois/76379270.html"
   },
   {
-    "title": "Alternance - Assistant Informatique - Bac+1 - 2 H/F",
-    "company": "ESICAD Toulouse",
-    "location": "Toulouse - 31",
+    "title": "Alternance - Développeur Informatique pour le Calcul Scientifique Hpc - Htc H/F",
+    "company": "Framatome",
+    "location": "Lyon - 69",
     "contract": "Alternance",
-    "salary": "784 - 1 823,03 € / mois",
-    "url": "https://www.hellowork.com/fr-fr/emplois/76446215.html"
+    "salary": "492,22 - 1 823,03 € / mois",
+    "url": "https://www.hellowork.com/fr-fr/emplois/76785702.html"
+  },
+  {
+    "title": "Alternance - Chargé d'Études Informatiques Orientation Base de Données et Outillage H/F",
+    "company": "Framatome",
+    "location": "Grenoble - 38",
+    "contract": "Alternance",
+    "salary": "492,22 - 1 823,03 € / mois",
+    "url": "https://www.hellowork.com/fr-fr/emplois/77463562.html"
+  },
+  {
+    "title": "Alternance Technicien Informatique de Proximité - Nice H/F",
+    "company": "ISCOD",
+    "location": "Nice - 06",
+    "contract": "Alternance",
+    "salary": "492,22 - 1 823,03 € / mois",
+    "url": "https://www.hellowork.com/fr-fr/emplois/76563780.html"
+  },
+  {
+    "title": "Alternance - Assistant Technique - Automatisme Supervision et Informatique H/F",
+    "company": "FAYAT ENERGIES SERVICES",
+    "location": "Rungis - 94",
+    "contract": "Alternance",
+    "salary": "492,22 - 1 823,03 € / mois",
+    "url": "https://www.hellowork.com/fr-fr/emplois/77277883.html"
+  },
+  {
+    "title": "Alternance - Commercial Itinérant Junior en Informatique H/F",
+    "company": "Avenir en perspective Côte d'Azur",
+    "location": "Antibes - 06",
+    "contract": "Alternance",
+    "salary": "784 - 966 € / mois",
+    "url": "https://www.hellowork.com/fr-fr/emplois/75875668.html"
+  },
+  {
+    "title": "Alternance But Geii - Automatisme Informatique Industrielle en Alternance H/F",
+    "company": "GERARD PERRIER INDUSTRIE",
+    "location": "Belley - 01",
+    "contract": "Alternance",
+    "salary": "492,22 - 1 823,03 € / mois",
+    "url": "https://www.hellowork.com/fr-fr/emplois/77086637.html"
   },
   {
     "title": "Développement Informatique - Bac+3 en Alternance - Septembre 2026 H/F",
     "company": "Sup De Vinci Nantes",
     "location": "Nantes - 44",
     "contract": "Alternance",
-    "salary": "Non spécifié",
     "url": "https://www.hellowork.com/fr-fr/emplois/77403490.html"
   },
   {
-    "title": "Alternance - Assistant Informatique - Bac+1 - 2 H/F",
-    "company": "ESICAD Toulouse",
-    "location": "Toulouse - 31",
+    "title": "Offre d'Alternance - Technicien Informatique - BTS Sio H/F",
+    "company": "MyDigitalSchool Alternance",
+    "location": "Angers - 49",
     "contract": "Alternance",
-    "salary": "774,77 - 1 823,03 € / mois",
-    "url": "https://www.hellowork.com/fr-fr/emplois/76430727.html"
-  },
-  {
-    "title": "Alternance Chef de Projet Informatique - Marseille H/F",
-    "company": "ISCOD",
-    "location": "Marseille - 13",
-    "contract": "Alternance",
-    "salary": "492,22 - 1 823,03 € / mois",
-    "url": "https://www.hellowork.com/fr-fr/emplois/76860429.html"
+    "url": "https://www.hellowork.com/fr-fr/emplois/76639561.html"
   },
   {
     "title": "Développeur Informatique en Alternance H/F",
@@ -1000,11 +920,17 @@
     "url": "https://www.hellowork.com/fr-fr/emplois/77535104.html"
   },
   {
+    "title": "Technicien Informatique en Alternance H/F",
+    "company": "MEWO campus des métiers",
+    "location": "Boulay-Moselle - 57",
+    "contract": "Alternance",
+    "url": "https://www.hellowork.com/fr-fr/emplois/77535131.html"
+  },
+  {
     "title": "Développeur Informatique en Alternance H/F",
     "company": "PRYSMIAN ENERGIE CABLES ET SYSTEMES FRANCE",
     "location": "Douvrin - 62",
     "contract": "Alternance",
-    "salary": "Non spécifié",
     "url": "https://www.hellowork.com/fr-fr/emplois/77329480.html"
   },
   {
@@ -1016,92 +942,98 @@
     "url": "https://www.hellowork.com/fr-fr/emplois/77535123.html"
   },
   {
-    "title": "Technicien Informatique en Alternance H/F",
-    "company": "MEWO campus des métiers",
-    "location": "Boulay-Moselle - 57",
-    "contract": "Alternance",
-    "salary": "Non spécifié",
-    "url": "https://www.hellowork.com/fr-fr/emplois/77535131.html"
-  },
-  {
-    "title": "Talent Recruiter - Domaine de l'Informatique Alternance H/F",
-    "company": "BlueDocker",
-    "location": "Villeurbanne - 69",
+    "title": "Alternance -Assistante - Assistant Développement et Data-Informatique-NucléaireSSI H/F",
+    "company": "EDF",
+    "location": "Dampierre-en-Burly - 45",
     "contract": "Alternance",
     "salary": "492,22 - 1 823,03 € / mois",
-    "url": "https://www.hellowork.com/fr-fr/emplois/76346744.html"
+    "url": "https://www.hellowork.com/fr-fr/emplois/75233459.html"
   },
   {
-    "title": "Alternance Chargé de Projet Informatique - Innovation Dsi H/F",
-    "company": "Business France",
-    "location": "Paris 14e - 75",
+    "title": "Alternance - Appui au Développement Informatique H/F",
+    "company": "RTE",
+    "location": "Marseille 15e - 13",
     "contract": "Alternance",
-    "salary": "492,22 - 1 823,03 € / mois",
-    "url": "https://www.hellowork.com/fr-fr/emplois/75807308.html"
-  },
-  {
-    "title": "Talent Recruiter - Domaine de l'Informatique Alternance H/F",
-    "company": "Silkhom",
-    "location": "Villeurbanne - 69",
-    "contract": "Alternance",
-    "salary": "492,22 - 1 823,03 € / mois",
-    "url": "https://www.hellowork.com/fr-fr/emplois/76347355.html"
-  },
-  {
-    "title": "Alternance - Commercial Solutions Informatiques - BTS N.D.R.C H/F",
-    "company": "Aurlom BTS+ Nice",
-    "location": "Nice - 06",
-    "contract": "Alternance",
-    "salary": "Non spécifié",
-    "url": "https://www.hellowork.com/fr-fr/emplois/76690406.html"
+    "salary": "1 422 - 1 823 € / mois",
+    "url": "https://www.hellowork.com/fr-fr/emplois/76697076.html"
   },
   {
     "title": "Alternance BTS Sio - Postes à Pourvoir en Informatique H/F",
     "company": "Fab’Academy du Pôle Formation – UIMM",
     "location": "La Roche-sur-Yon - 85",
     "contract": "Alternance",
-    "salary": "Non spécifié",
     "url": "https://www.hellowork.com/fr-fr/emplois/77145209.html"
   },
   {
-    "title": "Ingénieur d'Affaires en Informatique Alternance H/F",
-    "company": "Objectware",
+    "title": "Alternance Gestion de Projet Informatique - MOA Salesforce H/F",
+    "company": "Business France",
+    "location": "Paris 14e - 75",
+    "contract": "Alternance",
+    "salary": "492,22 - 1 823,03 € / mois",
+    "url": "https://www.hellowork.com/fr-fr/emplois/75807275.html"
+  },
+  {
+    "title": "Alternance - Data Privacy et Sécurité Informatique - Toulouse H/F",
+    "company": "BPCE Solutions informatiques",
+    "location": "Balma - 31",
+    "contract": "Alternance",
+    "salary": "492,22 - 1 823,03 € / mois",
+    "url": "https://www.hellowork.com/fr-fr/emplois/76975489.html"
+  },
+  {
+    "title": "Alternance - Technicien Informatique Support & Réseaux - BTS Sio - Bac+1 - 2 H/F",
+    "company": "ESICAD Toulouse",
+    "location": "Toulouse - 31",
+    "contract": "Alternance",
+    "salary": "784 - 1 823,03 € / mois",
+    "url": "https://www.hellowork.com/fr-fr/emplois/76784585.html"
+  },
+  {
+    "title": "Alternance - Data Privacy et Sécurité Informatique - Toulouse H/F",
+    "company": "BPCE Solutions informatiques",
+    "location": "Balma - 31",
+    "contract": "Alternance",
+    "salary": "492,22 - 1 823,03 € / mois",
+    "url": "https://www.hellowork.com/fr-fr/emplois/76976097.html"
+  },
+  {
+    "title": "Alternance - Assistant Gestion de Parc Informatique - BTS S.I.O H/F",
+    "company": "Aurlom",
     "location": "Paris - 75",
     "contract": "Alternance",
-    "salary": "Non spécifié",
-    "url": "https://www.hellowork.com/fr-fr/emplois/77053351.html"
+    "salary": "400 - 1 700 € / mois",
+    "url": "https://www.hellowork.com/fr-fr/emplois/77343972.html"
+  },
+  {
+    "title": "Alternance - Assistant Maintenance et Support Informatique - BTS S.I.O H/F",
+    "company": "Aurlom",
+    "location": "Paris - 75",
+    "contract": "Alternance",
+    "salary": "400 - 1 700 € / mois",
+    "url": "https://www.hellowork.com/fr-fr/emplois/77344167.html"
+  },
+  {
+    "title": "Alternance Chargé de Support Maintenance et Projets Informatique - Aubigny H/F",
+    "company": "ISCOD",
+    "location": "Aubigny - 80",
+    "contract": "Alternance",
+    "salary": "492,22 - 1 823,03 € / mois",
+    "url": "https://www.hellowork.com/fr-fr/emplois/76139515.html"
   },
   {
     "title": "Développement Informatique - Bac+3 en Alternance - Septembre 2026 H/F",
     "company": "Sup De Vinci Nantes",
     "location": "Nantes - 44",
     "contract": "Alternance",
-    "salary": "Non spécifié",
     "url": "https://www.hellowork.com/fr-fr/emplois/75878734.html"
   },
   {
-    "title": "Alternance - Assistant Informatique - BTS Sio - Bac+1 - 2 H/F",
-    "company": "ESICAD Toulouse",
-    "location": "Toulouse - 31",
+    "title": "Alternance Gestion de Projet Informatique MOA Plateformes H/F",
+    "company": "Business France",
+    "location": "Paris 14e - 75",
     "contract": "Alternance",
-    "salary": "784 - 1 823,03 € / mois",
-    "url": "https://www.hellowork.com/fr-fr/emplois/76446474.html"
-  },
-  {
-    "title": "Alternance - Assistant Informatique - BTS Sio - Bac+1 - 2 H/F",
-    "company": "ESICAD Toulouse",
-    "location": "Toulouse - 31",
-    "contract": "Alternance",
-    "salary": "784 - 1 823,03 € / mois",
-    "url": "https://www.hellowork.com/fr-fr/emplois/76446678.html"
-  },
-  {
-    "title": "Alternance - Assistant Informatique - BTS Sio - Bac+1 - 2 H/F",
-    "company": "ESICAD Toulouse",
-    "location": "Labège - 31",
-    "contract": "Alternance",
-    "salary": "784 - 1 823,03 € / mois",
-    "url": "https://www.hellowork.com/fr-fr/emplois/76446279.html"
+    "salary": "492,22 - 1 823,03 € / mois",
+    "url": "https://www.hellowork.com/fr-fr/emplois/75757738.html"
   },
   {
     "title": "Technicien Support Informatique en Alternance H/F",
@@ -1112,20 +1044,82 @@
     "url": "https://www.hellowork.com/fr-fr/emplois/77460003.html"
   },
   {
-    "title": "Alternance - Assistant Technique - Automatisme Supervision et Informatique H/F",
-    "company": "FAYAT ENERGIES SERVICES",
-    "location": "Rungis - 94",
+    "title": "Alternance - Assistant Informatique - Bac+1 - 2 H/F",
+    "company": "ESICAD Toulouse",
+    "location": "Toulouse - 31",
     "contract": "Alternance",
-    "salary": "492,22 - 1 823,03 € / mois",
-    "url": "https://www.hellowork.com/fr-fr/emplois/77277883.html"
+    "salary": "784 - 1 823,03 € / mois",
+    "url": "https://www.hellowork.com/fr-fr/emplois/76446215.html"
   },
   {
-    "title": "Alternance -Assistante - Assistant Développement et Data-Informatique-NucléaireSSI H/F",
-    "company": "EDF",
-    "location": "Dampierre-en-Burly - 45",
+    "title": "Alternance - Gestion de Projet Informatique MOA SIRH H/F",
+    "company": "Business France",
+    "location": "Paris 14e - 75",
     "contract": "Alternance",
     "salary": "492,22 - 1 823,03 € / mois",
-    "url": "https://www.hellowork.com/fr-fr/emplois/75233459.html"
+    "url": "https://www.hellowork.com/fr-fr/emplois/75697068.html"
+  },
+  {
+    "title": "Alternance - Commercial Solutions Informatiques - BTS N.D.R.C H/F",
+    "company": "Aurlom BTS+ Nice",
+    "location": "Nice - 06",
+    "contract": "Alternance",
+    "url": "https://www.hellowork.com/fr-fr/emplois/76690406.html"
+  },
+  {
+    "title": "Alternance - Assistant Informatique - Bac+1 - 2 H/F",
+    "company": "ESICAD Toulouse",
+    "location": "Toulouse - 31",
+    "contract": "Alternance",
+    "salary": "774,77 - 1 823,03 € / mois",
+    "url": "https://www.hellowork.com/fr-fr/emplois/76430727.html"
+  },
+  {
+    "title": "Alternance - Développeur Power Bi - Nantes H/F",
+    "company": "BPCE Solutions informatiques",
+    "location": "Saint-Herblain - 44",
+    "contract": "Alternance",
+    "salary": "492,22 - 1 823,03 € / mois",
+    "url": "https://www.hellowork.com/fr-fr/emplois/76382271.html"
+  },
+  {
+    "title": "Développeur - Alternance H/F",
+    "company": "Sup de Vinci Bordeaux",
+    "location": "Bordeaux - 33",
+    "contract": "Alternance",
+    "url": "https://www.hellowork.com/fr-fr/emplois/77494356.html"
+  },
+  {
+    "title": "Alternance - Continuité d'Activité et Sécurité Informatique H/F",
+    "company": "Groupama Rhône Alpes Auvergne",
+    "location": "Lyon - 69",
+    "contract": "Alternance",
+    "salary": "492,22 - 1 823,03 € / mois",
+    "url": "https://www.hellowork.com/fr-fr/emplois/76604644.html"
+  },
+  {
+    "title": "Alternance Gestion de Projet Informatique MOA Finances SAP H/F",
+    "company": "Business France",
+    "location": "Paris 14e - 75",
+    "contract": "Alternance",
+    "salary": "492,22 - 1 823,03 € / mois",
+    "url": "https://www.hellowork.com/fr-fr/emplois/75765920.html"
+  },
+  {
+    "title": "Alternance - Assistant Support Technique Informatique - BTS C.I.E.L H/F",
+    "company": "Aurlom",
+    "location": "Paris - 75",
+    "contract": "Alternance",
+    "salary": "400 - 1 400 € / mois",
+    "url": "https://www.hellowork.com/fr-fr/emplois/76379216.html"
+  },
+  {
+    "title": "Alternance Assistant Technique Si pour Préparer un But Informatique - Toulouse 31 H/F",
+    "company": "EDF",
+    "location": "Toulouse - 31",
+    "contract": "Alternance",
+    "salary": "492,22 - 1 823,03 € / mois",
+    "url": "https://www.hellowork.com/fr-fr/emplois/77352553.html"
   },
   {
     "title": "Technicien Informatique et Réseaux en Alternance H/F",
@@ -1144,22 +1138,6 @@
     "url": "https://www.hellowork.com/fr-fr/emplois/76976285.html"
   },
   {
-    "title": "Alternance - Développeur Power Bi - Nantes H/F",
-    "company": "BPCE Solutions informatiques",
-    "location": "Saint-Herblain - 44",
-    "contract": "Alternance",
-    "salary": "492,22 - 1 823,03 € / mois",
-    "url": "https://www.hellowork.com/fr-fr/emplois/76382271.html"
-  },
-  {
-    "title": "Développeur - Alternance H/F",
-    "company": "Sup de Vinci Bordeaux",
-    "location": "Bordeaux - 33",
-    "contract": "Alternance",
-    "salary": "Non spécifié",
-    "url": "https://www.hellowork.com/fr-fr/emplois/77494356.html"
-  },
-  {
     "title": "BTS Ciel - Cybersécurité Informatique et Réseaux Électronique en Alternance H/F",
     "company": "Groupe Alternance Reims",
     "location": "Reims - 51",
@@ -1168,36 +1146,11 @@
     "url": "https://www.hellowork.com/fr-fr/emplois/76902637.html"
   },
   {
-    "title": "Alternance - Data Privacy et Sécurité Informatique - Toulouse H/F",
-    "company": "BPCE Solutions informatiques",
-    "location": "Balma - 31",
+    "title": "Alternance - Chargé de Support Informatique - Applicatif H/F",
+    "company": "Daher",
+    "location": "Cornebarrieu - 31",
     "contract": "Alternance",
-    "salary": "492,22 - 1 823,03 € / mois",
-    "url": "https://www.hellowork.com/fr-fr/emplois/76975489.html"
-  },
-  {
-    "title": "Alternance - Data Privacy et Sécurité Informatique - Toulouse H/F",
-    "company": "BPCE Solutions informatiques",
-    "location": "Balma - 31",
-    "contract": "Alternance",
-    "salary": "492,22 - 1 823,03 € / mois",
-    "url": "https://www.hellowork.com/fr-fr/emplois/76976097.html"
-  },
-  {
-    "title": "Chargé·e de Sécurité Informatique en Alternance H/F",
-    "company": "Servier",
-    "location": "Bolbec - 76",
-    "contract": "Alternance",
-    "salary": "492,22 - 1 823,03 € / mois",
-    "url": "https://www.hellowork.com/fr-fr/emplois/76534234.html"
-  },
-  {
-    "title": "Ingénieur Informatique Industrielle Shadow OT en Alternance H/F",
-    "company": "Voies Navigables de France",
-    "location": "Béthune - 62",
-    "contract": "Alternance",
-    "salary": "492,22 - 1 823,03 € / mois",
-    "url": "https://www.hellowork.com/fr-fr/emplois/76060240.html"
+    "url": "https://www.hellowork.com/fr-fr/emplois/77291052.html"
   },
   {
     "title": "Alternance - Bac+5 - Uniformisation des Outils Informatiques Scientifiques H/F",
@@ -1208,6 +1161,53 @@
     "url": "https://www.hellowork.com/fr-fr/emplois/74959028.html"
   },
   {
+    "title": "Chargé·e de Sécurité Informatique en Alternance H/F",
+    "company": "Servier",
+    "location": "Bolbec - 76",
+    "contract": "Alternance",
+    "salary": "492,22 - 1 823,03 € / mois",
+    "url": "https://www.hellowork.com/fr-fr/emplois/76534234.html"
+  },
+  {
+    "title": "Développeur Salesforce en Alternance H/F",
+    "company": "Akkodis",
+    "location": "Lyon - 69",
+    "contract": "Alternance",
+    "url": "https://www.hellowork.com/fr-fr/emplois/77517385.html"
+  },
+  {
+    "title": "Ingénieur Informatique Industrielle Shadow OT en Alternance H/F",
+    "company": "Voies Navigables de France",
+    "location": "Béthune - 62",
+    "contract": "Alternance",
+    "salary": "492,22 - 1 823,03 € / mois",
+    "url": "https://www.hellowork.com/fr-fr/emplois/76060240.html"
+  },
+  {
+    "title": "Technicien IT Technicien Informatique - BTS Sio Sisr Alternance H/F",
+    "company": "SCHOLA NOVA",
+    "location": "Hauts-de-Seine - 92",
+    "contract": "Alternance",
+    "salary": "9 408 - 21 876,40 € / an",
+    "url": "https://www.hellowork.com/fr-fr/emplois/76380894.html"
+  },
+  {
+    "title": "Alternance - Assistant Informatique - BTS Sio - Bac+1 - 2 H/F",
+    "company": "ESICAD Toulouse",
+    "location": "Toulouse - 31",
+    "contract": "Alternance",
+    "salary": "784 - 1 823,03 € / mois",
+    "url": "https://www.hellowork.com/fr-fr/emplois/76446474.html"
+  },
+  {
+    "title": "Alternance - Assistant Informatique - BTS Sio - Bac+1 - 2 H/F",
+    "company": "ESICAD Toulouse",
+    "location": "Toulouse - 31",
+    "contract": "Alternance",
+    "salary": "784 - 1 823,03 € / mois",
+    "url": "https://www.hellowork.com/fr-fr/emplois/76446678.html"
+  },
+  {
     "title": "Alternance - Spécialiste en IA Générative et en Informatique Décisionnelle H/F",
     "company": "GIE Axa",
     "location": "Paris - 75",
@@ -1216,28 +1216,12 @@
     "url": "https://www.hellowork.com/fr-fr/emplois/76673425.html"
   },
   {
-    "title": "Développeur Salesforce en Alternance H/F",
-    "company": "Akkodis",
-    "location": "Lyon - 69",
+    "title": "Alternance - Assistant Informatique - BTS Sio - Bac+1 - 2 H/F",
+    "company": "ESICAD Toulouse",
+    "location": "Labège - 31",
     "contract": "Alternance",
-    "salary": "Non spécifié",
-    "url": "https://www.hellowork.com/fr-fr/emplois/77517385.html"
-  },
-  {
-    "title": "Vendeur Informatique en Alternance H/F",
-    "company": "Alternance Bourgogne - Villefranche sur Saône",
-    "location": "Villefranche-sur-Saône - 69",
-    "contract": "Alternance",
-    "salary": "492,22 - 1 823,03 € / mois",
-    "url": "https://www.hellowork.com/fr-fr/emplois/76736393.html"
-  },
-  {
-    "title": "Formation Gestionnaire en Maintenance et Support Informatique en Alternance H/F",
-    "company": "CESI Nice",
-    "location": "Nice - 06",
-    "contract": "Alternance",
-    "salary": "492,22 - 1 823,03 € / mois",
-    "url": "https://www.hellowork.com/fr-fr/emplois/77233389.html"
+    "salary": "784 - 1 823,03 € / mois",
+    "url": "https://www.hellowork.com/fr-fr/emplois/76446279.html"
   },
   {
     "title": "Alternance - Release Manager Paris H/F",
@@ -1260,24 +1244,7 @@
     "company": "Sup de Vinci Rennes",
     "location": "Rennes - 35",
     "contract": "Alternance",
-    "salary": "Non spécifié",
     "url": "https://www.hellowork.com/fr-fr/emplois/75122748.html"
-  },
-  {
-    "title": "Commercial en Solutions Informatiques Alternance H/F",
-    "company": "Prisma Formations",
-    "location": "Seine-Saint-Denis - 93",
-    "contract": "Alternance",
-    "salary": "1 823,03 € / mois",
-    "url": "https://www.hellowork.com/fr-fr/emplois/76382551.html"
-  },
-  {
-    "title": "Alternance - Assistant Informatique - Technicien Support Réseau & Télécom- BTS Sio - Bac+1 - 2 H/F",
-    "company": "ESICAD Toulouse",
-    "location": "Toulouse - 31",
-    "contract": "Alternance",
-    "salary": "784 - 1 823,03 € / mois",
-    "url": "https://www.hellowork.com/fr-fr/emplois/76446334.html"
   },
   {
     "title": "Alternance - Developpeur IA H/F",
@@ -1312,6 +1279,14 @@
     "url": "https://www.hellowork.com/fr-fr/emplois/77453682.html"
   },
   {
+    "title": "Alternance - Bac+4 - +5 - Amélioration de la Sécurité Informatique d'Une Infrastructure Réseau H/F",
+    "company": "CEA",
+    "location": "Bourgogne-Franche-Comté",
+    "contract": "Alternance",
+    "salary": "492,22 - 1 823,03 € / mois",
+    "url": "https://www.hellowork.com/fr-fr/emplois/75941749.html"
+  },
+  {
     "title": "Alternance - Développeur·se Plm - Courbevoie H/F",
     "company": "Sopra Steria",
     "location": "Courbevoie - 92",
@@ -1320,44 +1295,20 @@
     "url": "https://www.hellowork.com/fr-fr/emplois/77536278.html"
   },
   {
-    "title": "Gestionnaire en Maintenance et Support Informatique en Alternance H/F",
-    "company": "CESI Arras",
-    "location": "Saint-Sauveur - 80",
+    "title": "Vendeur Informatique en Alternance H/F",
+    "company": "Alternance Bourgogne - Villefranche sur Saône",
+    "location": "Villefranche-sur-Saône - 69",
     "contract": "Alternance",
     "salary": "492,22 - 1 823,03 € / mois",
-    "url": "https://www.hellowork.com/fr-fr/emplois/76956286.html"
+    "url": "https://www.hellowork.com/fr-fr/emplois/76736393.html"
   },
   {
-    "title": "Gestionnaire en Maintenance et Support Informatique en Alternance H/F",
-    "company": "CESI Arras",
-    "location": "Gauchy - 02",
+    "title": "Ingénieure - Ingénieur Informatique Industrielle - Alternance H/F",
+    "company": "Capgemini",
+    "location": "Strasbourg - 67",
     "contract": "Alternance",
     "salary": "492,22 - 1 823,03 € / mois",
-    "url": "https://www.hellowork.com/fr-fr/emplois/76956270.html"
-  },
-  {
-    "title": "Gestionnaire en Maintenance et Support Informatique en Alternance H/F",
-    "company": "CESI Arras",
-    "location": "Lille - 59",
-    "contract": "Alternance",
-    "salary": "492,22 - 1 823,03 € / mois",
-    "url": "https://www.hellowork.com/fr-fr/emplois/76956265.html"
-  },
-  {
-    "title": "Gestionnaire en Maintenance et Support Informatique en Alternance H/F",
-    "company": "CESI Arras",
-    "location": "Arras - 62",
-    "contract": "Alternance",
-    "salary": "492,22 - 1 823,03 € / mois",
-    "url": "https://www.hellowork.com/fr-fr/emplois/76956263.html"
-  },
-  {
-    "title": "Gestionnaire en Maintenance et Support Informatique en Alternance H/F",
-    "company": "CESI Arras",
-    "location": "Caudry - 59",
-    "contract": "Alternance",
-    "salary": "Non spécifié",
-    "url": "https://www.hellowork.com/fr-fr/emplois/76956257.html"
+    "url": "https://www.hellowork.com/fr-fr/emplois/76826686.html"
   },
   {
     "title": "Développeuse - Développeur Java - Alternance H/F",
@@ -1392,14 +1343,6 @@
     "url": "https://www.hellowork.com/fr-fr/emplois/77545596.html"
   },
   {
-    "title": "Alternance - Continuité d'Activité et Sécurité Informatique H/F",
-    "company": "Groupama Rhône Alpes Auvergne",
-    "location": "Lyon - 69",
-    "contract": "Alternance",
-    "salary": "492,22 - 1 823,03 € / mois",
-    "url": "https://www.hellowork.com/fr-fr/emplois/76604644.html"
-  },
-  {
     "title": "Développeuse - Développeur Cloud - Alternance H/F",
     "company": "Capgemini",
     "location": "Lille - 59",
@@ -1432,6 +1375,28 @@
     "url": "https://www.hellowork.com/fr-fr/emplois/77407712.html"
   },
   {
+    "title": "Formation Gestionnaire en Maintenance et Support Informatique en Alternance H/F",
+    "company": "CESI Nice",
+    "location": "Nice - 06",
+    "contract": "Alternance",
+    "salary": "492,22 - 1 823,03 € / mois",
+    "url": "https://www.hellowork.com/fr-fr/emplois/77233389.html"
+  },
+  {
+    "title": "Développeur Informatique - Java - Angular Alternance H/F",
+    "company": "Sup de Vinci Rennes",
+    "location": "Rennes - 35",
+    "contract": "Alternance",
+    "url": "https://www.hellowork.com/fr-fr/emplois/76686094.html"
+  },
+  {
+    "title": "Alternance Ingénieur Cybersécurité Merignac H/F",
+    "company": "Sup de Vinci Bordeaux",
+    "location": "Mérignac - 33",
+    "contract": "Alternance",
+    "url": "https://www.hellowork.com/fr-fr/emplois/77590785.html"
+  },
+  {
     "title": "Alternance - Développeur Fullstack - Orleans H/F",
     "company": "BPCE Solutions informatiques",
     "location": "Orléans - 45",
@@ -1448,20 +1413,28 @@
     "url": "https://www.hellowork.com/fr-fr/emplois/77553592.html"
   },
   {
-    "title": "Alternance - Développeur Fullstack - Orleans H/F",
-    "company": "BPCE Solutions informatiques",
-    "location": "Orléans - 45",
+    "title": "Ingénieure - Ingénieur Cybersécurité - Alternance H/F",
+    "company": "Capgemini",
+    "location": "Nancy - 54",
     "contract": "Alternance",
     "salary": "492,22 - 1 823,03 € / mois",
-    "url": "https://www.hellowork.com/fr-fr/emplois/77245834.html"
+    "url": "https://www.hellowork.com/fr-fr/emplois/77411669.html"
   },
   {
-    "title": "Alternance Assistant Technique Si pour Préparer un But Informatique - Toulouse 31 H/F",
-    "company": "EDF",
-    "location": "Toulouse - 31",
+    "title": "Gestionnaire en Maintenance et Support Informatique en Alternance H/F",
+    "company": "CESI Arras",
+    "location": "Saint-Sauveur - 80",
     "contract": "Alternance",
     "salary": "492,22 - 1 823,03 € / mois",
-    "url": "https://www.hellowork.com/fr-fr/emplois/77352553.html"
+    "url": "https://www.hellowork.com/fr-fr/emplois/76956286.html"
+  },
+  {
+    "title": "Alternance Chargé de Projet Informatique - Innovation Dsi H/F",
+    "company": "Business France",
+    "location": "Paris 14e - 75",
+    "contract": "Alternance",
+    "salary": "492,22 - 1 823,03 € / mois",
+    "url": "https://www.hellowork.com/fr-fr/emplois/75807308.html"
   },
   {
     "title": "Alternance - Développeur Java - Angular - Paris H/F",
@@ -1472,12 +1445,35 @@
     "url": "https://www.hellowork.com/fr-fr/emplois/76266153.html"
   },
   {
-    "title": "Ingénieure - Ingénieur Cybersécurité - Alternance H/F",
-    "company": "Capgemini",
-    "location": "Nancy - 54",
+    "title": "Gestionnaire en Maintenance et Support Informatique en Alternance H/F",
+    "company": "CESI Arras",
+    "location": "Gauchy - 02",
     "contract": "Alternance",
     "salary": "492,22 - 1 823,03 € / mois",
-    "url": "https://www.hellowork.com/fr-fr/emplois/77411669.html"
+    "url": "https://www.hellowork.com/fr-fr/emplois/76956270.html"
+  },
+  {
+    "title": "Gestionnaire en Maintenance et Support Informatique en Alternance H/F",
+    "company": "CESI Arras",
+    "location": "Lille - 59",
+    "contract": "Alternance",
+    "salary": "492,22 - 1 823,03 € / mois",
+    "url": "https://www.hellowork.com/fr-fr/emplois/76956265.html"
+  },
+  {
+    "title": "Gestionnaire en Maintenance et Support Informatique en Alternance H/F",
+    "company": "CESI Arras",
+    "location": "Arras - 62",
+    "contract": "Alternance",
+    "salary": "492,22 - 1 823,03 € / mois",
+    "url": "https://www.hellowork.com/fr-fr/emplois/76956263.html"
+  },
+  {
+    "title": "Gestionnaire en Maintenance et Support Informatique en Alternance H/F",
+    "company": "CESI Arras",
+    "location": "Caudry - 59",
+    "contract": "Alternance",
+    "url": "https://www.hellowork.com/fr-fr/emplois/76956257.html"
   },
   {
     "title": "Alternance Technicien IT BTS Sio H/F",
@@ -1496,11 +1492,18 @@
     "url": "https://www.hellowork.com/fr-fr/emplois/77296466.html"
   },
   {
+    "title": "Alternance Chef de Projet Informatique - Marseille H/F",
+    "company": "ISCOD",
+    "location": "Marseille - 13",
+    "contract": "Alternance",
+    "salary": "492,22 - 1 823,03 € / mois",
+    "url": "https://www.hellowork.com/fr-fr/emplois/76860429.html"
+  },
+  {
     "title": "Développeur en Alternance Bac+3 H/F",
     "company": "Sup de Vinci Rennes",
     "location": "Rennes - 35",
     "contract": "Alternance",
-    "salary": "Non spécifié",
     "url": "https://www.hellowork.com/fr-fr/emplois/74906759.html"
   },
   {
@@ -1512,22 +1515,6 @@
     "url": "https://www.hellowork.com/fr-fr/emplois/76266208.html"
   },
   {
-    "title": "Technicien Support - Alternance H/F",
-    "company": "MAF - Mutuelle des Architectes Français",
-    "location": "Paris 17e - 75",
-    "contract": "Alternance",
-    "salary": "Non spécifié",
-    "url": "https://www.hellowork.com/fr-fr/emplois/77602382.html"
-  },
-  {
-    "title": "Alternance - Developpeur- 85 H/F",
-    "company": "MSA Loire Atlantique - Vendée",
-    "location": "La Roche-sur-Yon - 85",
-    "contract": "Alternance",
-    "salary": "Non spécifié",
-    "url": "https://www.hellowork.com/fr-fr/emplois/77409349.html"
-  },
-  {
     "title": "Alternance - Technicien·ne de Maintenance et Support Utilisateurs H/F",
     "company": "SPIE ICS",
     "location": "Toulouse - 31",
@@ -1536,12 +1523,18 @@
     "url": "https://www.hellowork.com/fr-fr/emplois/77406703.html"
   },
   {
-    "title": "Alternance - Développeur de Territoire H/F",
-    "company": "EFS Etablissement Français du Sang",
-    "location": "Pessac - 33",
+    "title": "Technicien Support - Alternance H/F",
+    "company": "MAF - Mutuelle des Architectes Français",
+    "location": "Paris 17e - 75",
     "contract": "Alternance",
-    "salary": "492,22 - 1 823,03 € / mois",
-    "url": "https://www.hellowork.com/fr-fr/emplois/77517745.html"
+    "url": "https://www.hellowork.com/fr-fr/emplois/77602382.html"
+  },
+  {
+    "title": "Alternance - Developpeur- 85 H/F",
+    "company": "MSA Loire Atlantique - Vendée",
+    "location": "La Roche-sur-Yon - 85",
+    "contract": "Alternance",
+    "url": "https://www.hellowork.com/fr-fr/emplois/77409349.html"
   },
   {
     "title": "Alternance Analyste Cybersécurité H/F",
@@ -1552,20 +1545,26 @@
     "url": "https://www.hellowork.com/fr-fr/emplois/77542804.html"
   },
   {
+    "title": "Alternance - Développeur de Territoire H/F",
+    "company": "EFS Etablissement Français du Sang",
+    "location": "Pessac - 33",
+    "contract": "Alternance",
+    "salary": "492,22 - 1 823,03 € / mois",
+    "url": "https://www.hellowork.com/fr-fr/emplois/77517745.html"
+  },
+  {
+    "title": "Alternance Cybersécurité H/F",
+    "company": "Avril Services",
+    "location": "Bruz - 35",
+    "contract": "Alternance",
+    "url": "https://www.hellowork.com/fr-fr/emplois/77393316.html"
+  },
+  {
     "title": "Alternance - Analyste Cybersécurité H/F",
     "company": "L'Atelier",
     "location": "Lille - 59",
     "contract": "Alternance",
-    "salary": "Non spécifié",
     "url": "https://www.hellowork.com/fr-fr/emplois/76283326.html"
-  },
-  {
-    "title": "Commercial en Informatique en Alternance - Formation Incluse H/F",
-    "company": "Prisma Formations",
-    "location": "Paris - 75",
-    "contract": "Alternance",
-    "salary": "784 - 1 823 € / mois",
-    "url": "https://www.hellowork.com/fr-fr/emplois/75559133.html"
   },
   {
     "title": "Formation Bac+4 en Alternance Alternance Développeuse - Développeur Java H/F",
@@ -1576,19 +1575,10 @@
     "url": "https://www.hellowork.com/fr-fr/emplois/77025520.html"
   },
   {
-    "title": "Alternance Cybersécurité H/F",
-    "company": "Avril Services",
-    "location": "Bruz - 35",
-    "contract": "Alternance",
-    "salary": "Non spécifié",
-    "url": "https://www.hellowork.com/fr-fr/emplois/77393316.html"
-  },
-  {
     "title": "Alternance Développeur H/F",
     "company": "Sup de Vinci Rennes",
     "location": "Le Mans - 72",
     "contract": "Alternance",
-    "salary": "Non spécifié",
     "url": "https://www.hellowork.com/fr-fr/emplois/75739919.html"
   },
   {
@@ -1596,16 +1586,7 @@
     "company": "NEXA Digital School",
     "location": "Auvergne-Rhône-Alpes",
     "contract": "Alternance",
-    "salary": "Non spécifié",
     "url": "https://www.hellowork.com/fr-fr/emplois/77603334.html"
-  },
-  {
-    "title": "Alternance - Technicien Microplastique H/F",
-    "company": "Arkema",
-    "location": "Serquigny - 27",
-    "contract": "Alternance",
-    "salary": "492,22 - 1 823,03 € / mois",
-    "url": "https://www.hellowork.com/fr-fr/emplois/76340187.html"
   },
   {
     "title": "Alternance Cybersécurité H/F",
@@ -1617,11 +1598,24 @@
   },
   {
     "title": "Alternance - Développeur IA - Bac+3 - Bac+4 H/F",
-    "company": "Non spécifié",
     "location": "Montpellier - 34",
     "contract": "Alternance",
-    "salary": "Non spécifié",
     "url": "https://www.hellowork.com/fr-fr/emplois/76321612.html"
+  },
+  {
+    "title": "Alternance - Technicien Microplastique H/F",
+    "company": "Arkema",
+    "location": "Serquigny - 27",
+    "contract": "Alternance",
+    "salary": "492,22 - 1 823,03 € / mois",
+    "url": "https://www.hellowork.com/fr-fr/emplois/76340187.html"
+  },
+  {
+    "title": "Alternance Developpeur Bac +4 - 5 H/F",
+    "company": "Sup de Vinci Rennes",
+    "location": "Angers - 49",
+    "contract": "Alternance",
+    "url": "https://www.hellowork.com/fr-fr/emplois/77229120.html"
   },
   {
     "title": "Développeur en Alternance H/F",
@@ -1640,14 +1634,6 @@
     "url": "https://www.hellowork.com/fr-fr/emplois/76812138.html"
   },
   {
-    "title": "Alternance Developpeur Bac +4 - 5 H/F",
-    "company": "Sup de Vinci Rennes",
-    "location": "Angers - 49",
-    "contract": "Alternance",
-    "salary": "Non spécifié",
-    "url": "https://www.hellowork.com/fr-fr/emplois/77229120.html"
-  },
-  {
     "title": "Développeur en Alternance H/F",
     "company": "XEFI",
     "location": "Rillieux-la-Pape - 69",
@@ -1656,20 +1642,19 @@
     "url": "https://www.hellowork.com/fr-fr/emplois/76812299.html"
   },
   {
-    "title": "Ingénieur Informatique - Alternance H/F",
-    "company": "Eiffage Energie Systèmes",
-    "location": "Villefontaine - 38",
+    "title": "Chargé de Projet Informatique Industrielle - Alternance H/F",
+    "company": "Régie de L'Eau Bordeaux Métropole",
+    "location": "Bordeaux - 33",
     "contract": "Alternance",
-    "salary": "492,22 - 1 823,03 € / mois",
-    "url": "https://www.hellowork.com/fr-fr/emplois/76747414.html"
+    "salary": "15 000 € / an",
+    "url": "https://www.hellowork.com/fr-fr/emplois/76801231.html"
   },
   {
-    "title": "Alternance - Bac+4 - +5 - Amélioration de la Sécurité Informatique d'Une Infrastructure Réseau H/F",
-    "company": "CEA",
-    "location": "Bourgogne-Franche-Comté",
+    "title": "Alternance - Analyste Développeur Etl H/F",
+    "company": "Thélem assurances",
+    "location": "Chécy - 45",
     "contract": "Alternance",
-    "salary": "492,22 - 1 823,03 € / mois",
-    "url": "https://www.hellowork.com/fr-fr/emplois/75941749.html"
+    "url": "https://www.hellowork.com/fr-fr/emplois/76386086.html"
   },
   {
     "title": "Alternance Développeur Fullstack PHP - Laravel - Js - Paris H/F",
@@ -1678,14 +1663,6 @@
     "contract": "Alternance",
     "salary": "492,22 - 1 823,03 € / mois",
     "url": "https://www.hellowork.com/fr-fr/emplois/76238235.html"
-  },
-  {
-    "title": "Alternance - Bac+4 - +5 - Amélioration de la Sécurité Informatique d'Une Infrastructure Réseau H/F",
-    "company": "CEA",
-    "location": "Bourgogne-Franche-Comté",
-    "contract": "Alternance",
-    "salary": "492,22 - 1 823,03 € / mois",
-    "url": "https://www.hellowork.com/fr-fr/emplois/75941749.html"
   },
   {
     "title": "Alternance Cybersécurité H/F",
@@ -1694,22 +1671,6 @@
     "contract": "Alternance",
     "salary": "900 - 1 823,03 € / mois",
     "url": "https://www.hellowork.com/fr-fr/emplois/77288866.html"
-  },
-  {
-    "title": "Alternance Développeur Fullstack PHP - Laravel - Js - Paris H/F",
-    "company": "BPCE Solutions informatiques",
-    "location": "Paris - 75",
-    "contract": "Alternance",
-    "salary": "492,22 - 1 823,03 € / mois",
-    "url": "https://www.hellowork.com/fr-fr/emplois/76238235.html"
-  },
-  {
-    "title": "Technicien Support Informatique en Alternance H/F",
-    "company": "Groupe Télégramme",
-    "location": "Morlaix - 29",
-    "contract": "Alternance",
-    "salary": "492,22 - 1 823,03 € / mois",
-    "url": "https://www.hellowork.com/fr-fr/emplois/74326311.html"
   },
   {
     "title": "Développeur Power Platform Alternance H/F",
@@ -1732,7 +1693,6 @@
     "company": "Bassetti",
     "location": "Grenoble - 38",
     "contract": "Stage",
-    "salary": "Non spécifié",
     "url": "https://www.hellowork.com/fr-fr/emplois/77252973.html"
   },
   {
@@ -1744,12 +1704,12 @@
     "url": "https://www.hellowork.com/fr-fr/emplois/76401169.html"
   },
   {
-    "title": "Alternance - Analyste Cybersécurité H/F",
-    "company": "NEXA Digital School",
-    "location": "Paris - 75",
+    "title": "Technicien IT Technicien Informatique - BTS Sio Sisr Alternance H/F",
+    "company": "SCHOLA NOVA",
+    "location": "Hauts-de-Seine - 92",
     "contract": "Alternance",
-    "salary": "Non spécifié",
-    "url": "https://www.hellowork.com/fr-fr/emplois/77228685.html"
+    "salary": "9 408 - 21 876,40 € / an",
+    "url": "https://www.hellowork.com/fr-fr/emplois/74582992.html"
   },
   {
     "title": "Alternance Sharepoint Developer H/F",
@@ -1758,6 +1718,13 @@
     "contract": "Alternance",
     "salary": "492,22 - 1 823,03 € / mois",
     "url": "https://www.hellowork.com/fr-fr/emplois/77153031.html"
+  },
+  {
+    "title": "Alternance - Analyste Cybersécurité H/F",
+    "company": "NEXA Digital School",
+    "location": "Paris - 75",
+    "contract": "Alternance",
+    "url": "https://www.hellowork.com/fr-fr/emplois/77228685.html"
   },
   {
     "title": "Alternance - Développeur·se de Moyens de Simulation Numériques pour la Défense - Chartres-De-Bretagne H/F",
@@ -1772,16 +1739,15 @@
     "company": "Avril Services",
     "location": "Bruz - 35",
     "contract": "Alternance",
-    "salary": "Non spécifié",
     "url": "https://www.hellowork.com/fr-fr/emplois/77453128.html"
   },
   {
-    "title": "Alternance - Chef de Projet IT - Transformation Digitale H/F",
-    "company": "Sup de Vinci Rennes",
-    "location": "Ille-et-Vilaine - 35",
+    "title": "Commercial en Informatique en Alternance - Formation Incluse H/F",
+    "company": "Prisma Formations",
+    "location": "Paris - 75",
     "contract": "Alternance",
-    "salary": "21 876,40 € / an",
-    "url": "https://www.hellowork.com/fr-fr/emplois/77446293.html"
+    "salary": "784 - 1 823 € / mois",
+    "url": "https://www.hellowork.com/fr-fr/emplois/75559133.html"
   },
   {
     "title": "Alternance - Développeur Full Stack - Strasbourg H/F",
@@ -1792,11 +1758,18 @@
     "url": "https://www.hellowork.com/fr-fr/emplois/77017881.html"
   },
   {
+    "title": "Alternance - Chef de Projet IT - Transformation Digitale H/F",
+    "company": "Sup de Vinci Rennes",
+    "location": "Ille-et-Vilaine - 35",
+    "contract": "Alternance",
+    "salary": "21 876,40 € / an",
+    "url": "https://www.hellowork.com/fr-fr/emplois/77446293.html"
+  },
+  {
     "title": "Alternance - Analyste Développeur Salesforce H/F",
     "company": "Thélem assurances",
     "location": "Chécy - 45",
     "contract": "Alternance",
-    "salary": "Non spécifié",
     "url": "https://www.hellowork.com/fr-fr/emplois/76135558.html"
   },
   {
@@ -1812,8 +1785,14 @@
     "company": "Sup de Vinci Paris",
     "location": "Puteaux - 92",
     "contract": "Alternance",
-    "salary": "Non spécifié",
     "url": "https://www.hellowork.com/fr-fr/emplois/76960791.html"
+  },
+  {
+    "title": "Développeur en Intelligence Artificielle - Alternance H/F",
+    "company": "NEXA Digital School",
+    "location": "Strasbourg - 67",
+    "contract": "Alternance",
+    "url": "https://www.hellowork.com/fr-fr/emplois/77612175.html"
   },
   {
     "title": "Développeur Intelligence Artificielle en Alternance H/F",
@@ -1824,14 +1803,6 @@
     "url": "https://www.hellowork.com/fr-fr/emplois/76107004.html"
   },
   {
-    "title": "Back-End Développeur Alternance H/F",
-    "company": "Sup de Vinci Paris",
-    "location": "Puteaux - 92",
-    "contract": "Alternance",
-    "salary": "Non spécifié",
-    "url": "https://www.hellowork.com/fr-fr/emplois/76960798.html"
-  },
-  {
     "title": "Alternance Analyste Cybersécurité - Poitiers H/F",
     "company": "ISCOD",
     "location": "Poitiers - 86",
@@ -1840,12 +1811,19 @@
     "url": "https://www.hellowork.com/fr-fr/emplois/77450952.html"
   },
   {
-    "title": "Alternance - Assistant Consultant en Sécurité Informatique E H/F",
-    "company": "Aurlom BTS+ Nice",
-    "location": "Nice - 06",
+    "title": "Back-End Développeur Alternance H/F",
+    "company": "Sup de Vinci Paris",
+    "location": "Puteaux - 92",
     "contract": "Alternance",
-    "salary": "400 - 1 700 € / mois",
-    "url": "https://www.hellowork.com/fr-fr/emplois/76753072.html"
+    "url": "https://www.hellowork.com/fr-fr/emplois/76960798.html"
+  },
+  {
+    "title": "Alternance Technicien IT - Annecy H/F",
+    "company": "ISCOD",
+    "location": "Annecy - 74",
+    "contract": "Alternance",
+    "salary": "492,22 - 1 823,03 € / mois",
+    "url": "https://www.hellowork.com/fr-fr/emplois/77450763.html"
   },
   {
     "title": "Développeuse - Développeur Fullstack - Alternance H/F",
@@ -1864,20 +1842,19 @@
     "url": "https://www.hellowork.com/fr-fr/emplois/76880015.html"
   },
   {
-    "title": "Alternance Technicien IT - Annecy H/F",
-    "company": "ISCOD",
-    "location": "Annecy - 74",
-    "contract": "Alternance",
-    "salary": "492,22 - 1 823,03 € / mois",
-    "url": "https://www.hellowork.com/fr-fr/emplois/77450763.html"
-  },
-  {
     "title": "Alternance Ingénieur Cybersécurité H/F",
     "company": "Galeries Lafayette",
     "location": "Paris 9e - 75",
     "contract": "Alternance",
     "salary": "1 450 - 1 855 € / mois",
     "url": "https://www.hellowork.com/fr-fr/emplois/77555834.html"
+  },
+  {
+    "title": "Alternance - Apprenti·e Cybersécurité H/F",
+    "company": "NEXA Digital School",
+    "location": "Strasbourg - 67",
+    "contract": "Alternance",
+    "url": "https://www.hellowork.com/fr-fr/emplois/77612161.html"
   },
   {
     "title": "Alternance - Développeur Test Automatisé - Bac+4 - +5 H/F",
@@ -1888,20 +1865,19 @@
     "url": "https://www.hellowork.com/fr-fr/emplois/77156122.html"
   },
   {
-    "title": "Ingénieure - Ingénieur Informatique Industrielle - Alternance H/F",
-    "company": "Capgemini",
-    "location": "Strasbourg - 67",
-    "contract": "Alternance",
-    "salary": "492,22 - 1 823,03 € / mois",
-    "url": "https://www.hellowork.com/fr-fr/emplois/76826686.html"
-  },
-  {
     "title": "Alternance - Technicien Micro-Réseaux H/F",
     "company": "Unicil",
     "location": "Marseille 6e - 13",
     "contract": "Alternance",
-    "salary": "Non spécifié",
     "url": "https://www.hellowork.com/fr-fr/emplois/77369350.html"
+  },
+  {
+    "title": "Alternance - Assistant Informatique - Technicien Support Réseau & Télécom- BTS Sio - Bac+1 - 2 H/F",
+    "company": "ESICAD Toulouse",
+    "location": "Toulouse - 31",
+    "contract": "Alternance",
+    "salary": "784 - 1 823,03 € / mois",
+    "url": "https://www.hellowork.com/fr-fr/emplois/76446334.html"
   },
   {
     "title": "Alternance Product Owner - Mastère Chef de Projet IT H/F",
@@ -1928,20 +1904,12 @@
     "url": "https://www.hellowork.com/fr-fr/emplois/77264826.html"
   },
   {
-    "title": "Alternance - Assistant Développeur de Territoire H/F",
-    "company": "EFS Etablissement Français du Sang",
-    "location": "Albi - 81",
+    "title": "Alternance Cybersécurité - Trouy H/F",
+    "company": "ISCOD",
+    "location": "Trouy - 18",
     "contract": "Alternance",
     "salary": "492,22 - 1 823,03 € / mois",
-    "url": "https://www.hellowork.com/fr-fr/emplois/77264827.html"
-  },
-  {
-    "title": "Technicien Informatique - en Alternance H/F",
-    "company": "IRIS Paris",
-    "location": "Paris - 75",
-    "contract": "Alternance",
-    "salary": "Non spécifié",
-    "url": "https://www.hellowork.com/fr-fr/emplois/75291683.html"
+    "url": "https://www.hellowork.com/fr-fr/emplois/77408830.html"
   },
   {
     "title": "Alternance - Analyste Cyberdéfense Soc - Csirt H/F",
@@ -1968,12 +1936,19 @@
     "url": "https://www.hellowork.com/fr-fr/emplois/77261655.html"
   },
   {
-    "title": "Développeur IA & Data Science - Alternance H/F",
-    "company": "Aumovio",
-    "location": "Toulouse - 31",
+    "title": "Technicien Support Informatique en Alternance H/F",
+    "company": "Groupe Télégramme",
+    "location": "Morlaix - 29",
     "contract": "Alternance",
     "salary": "492,22 - 1 823,03 € / mois",
-    "url": "https://www.hellowork.com/fr-fr/emplois/77466567.html"
+    "url": "https://www.hellowork.com/fr-fr/emplois/74326311.html"
+  },
+  {
+    "title": "Alternance - Business Developer IT H/F",
+    "company": "Alternis Business School",
+    "location": "Bordeaux - Pessac - 33",
+    "contract": "Alternance",
+    "url": "https://www.hellowork.com/fr-fr/emplois/77612152.html"
   },
   {
     "title": "Alternance - Developpeur - Developpeuse DevOps H/F",
@@ -1984,12 +1959,25 @@
     "url": "https://www.hellowork.com/fr-fr/emplois/77214763.html"
   },
   {
+    "title": "Développeur IA & Data Science - Alternance H/F",
+    "company": "Aumovio",
+    "location": "Toulouse - 31",
+    "contract": "Alternance",
+    "salary": "492,22 - 1 823,03 € / mois",
+    "url": "https://www.hellowork.com/fr-fr/emplois/77466567.html"
+  },
+  {
     "title": "Alternance Cybersécurité H/F",
     "company": "DSTI School of Engineering",
     "location": "Nice - 06",
     "contract": "Alternance",
-    "salary": "Non spécifié",
     "url": "https://www.hellowork.com/fr-fr/emplois/48843211.html"
+  },
+  {
+    "title": "Alternance Ingénieur Cybersécurité Bayonne H/F",
+    "location": "Bayonne - 64",
+    "contract": "Alternance",
+    "url": "https://www.hellowork.com/fr-fr/emplois/76954557.html"
   },
   {
     "title": "Analyste Cybersécurité Soc - Cert en Alternance H/F",
@@ -1998,14 +1986,6 @@
     "contract": "Alternance",
     "salary": "1 200 € / mois",
     "url": "https://www.hellowork.com/fr-fr/emplois/77426656.html"
-  },
-  {
-    "title": "Alternance Ingénieur Cybersécurité Bayonne H/F",
-    "company": "Non spécifié",
-    "location": "Bayonne - 64",
-    "contract": "Alternance",
-    "salary": "Non spécifié",
-    "url": "https://www.hellowork.com/fr-fr/emplois/76954557.html"
   },
   {
     "title": "Alternance Développeur Concepteur - Paris H/F",
@@ -2020,16 +2000,7 @@
     "company": "EPSI Lyon",
     "location": "Rillieux-la-Pape - 69",
     "contract": "Alternance",
-    "salary": "Non spécifié",
     "url": "https://www.hellowork.com/fr-fr/emplois/75649805.html"
-  },
-  {
-    "title": "Développeur en Alternance - Hookto - Xefi H/F",
-    "company": "EPSI Lyon",
-    "location": "Rhône - 69",
-    "contract": "Alternance",
-    "salary": "Non spécifié",
-    "url": "https://www.hellowork.com/fr-fr/emplois/75757291.html"
   },
   {
     "title": "Alternance - Développeur en Tests Technico-Fonctionnels - Bac+4 - +5 H/F",
@@ -2038,6 +2009,13 @@
     "contract": "Alternance",
     "salary": "783,90 - 1 823,03 € / mois",
     "url": "https://www.hellowork.com/fr-fr/emplois/77155976.html"
+  },
+  {
+    "title": "Développeur en Alternance - Hookto - Xefi H/F",
+    "company": "EPSI Lyon",
+    "location": "Rhône - 69",
+    "contract": "Alternance",
+    "url": "https://www.hellowork.com/fr-fr/emplois/75757291.html"
   },
   {
     "title": "Alternance - Reporting Analyst - Developper H/F",
@@ -2084,23 +2062,13 @@
     "company": "Alfa Laval Spiral",
     "location": "Nevers - 58",
     "contract": "Alternance",
-    "salary": "Non spécifié",
     "url": "https://www.hellowork.com/fr-fr/emplois/77150276.html"
-  },
-  {
-    "title": "Développeur Informatique - Java - Angular Alternance H/F",
-    "company": "Sup de Vinci Rennes",
-    "location": "Rennes - 35",
-    "contract": "Alternance",
-    "salary": "Non spécifié",
-    "url": "https://www.hellowork.com/fr-fr/emplois/76686094.html"
   },
   {
     "title": "Alternance Chef de Projets S.I. H/F",
     "company": "Elior Group",
     "location": "Courbevoie - 92",
     "contract": "Alternance",
-    "salary": "Non spécifié",
     "url": "https://www.hellowork.com/fr-fr/emplois/77542810.html"
   },
   {
@@ -2120,12 +2088,20 @@
     "url": "https://www.hellowork.com/fr-fr/emplois/77535119.html"
   },
   {
-    "title": "Alternance Développeur Sig - Lyon H/F",
-    "company": "ISCOD",
-    "location": "Lyon 3e - 69",
+    "title": "Alternance - Assistant Consultant en Sécurité Informatique E H/F",
+    "company": "Aurlom BTS+ Nice",
+    "location": "Nice - 06",
     "contract": "Alternance",
-    "salary": "492,22 - 1 823,03 € / mois",
-    "url": "https://www.hellowork.com/fr-fr/emplois/77213057.html"
+    "salary": "400 - 1 700 € / mois",
+    "url": "https://www.hellowork.com/fr-fr/emplois/76753072.html"
+  },
+  {
+    "title": "Alternance Développeuse - Développeur Microsoft Power Platform H/F",
+    "company": "EPSI Toulouse",
+    "location": "Toulouse - 31",
+    "contract": "Alternance",
+    "salary": "1 823,03 € / mois",
+    "url": "https://www.hellowork.com/fr-fr/emplois/77025508.html"
   },
   {
     "title": "Alternance Développeuse - Développeur Microsoft Power Platform H/F",
@@ -2176,11 +2152,17 @@
     "url": "https://www.hellowork.com/fr-fr/emplois/76904451.html"
   },
   {
+    "title": "Technicien Informatique - en Alternance H/F",
+    "company": "IRIS Paris",
+    "location": "Paris - 75",
+    "contract": "Alternance",
+    "url": "https://www.hellowork.com/fr-fr/emplois/75291683.html"
+  },
+  {
     "title": "Développeur en Alternance Bac+3 H/F",
     "company": "Sup de Vinci Rennes",
     "location": "Saint-Brieuc - 22",
     "contract": "Alternance",
-    "salary": "Non spécifié",
     "url": "https://www.hellowork.com/fr-fr/emplois/75740152.html"
   },
   {
@@ -2204,7 +2186,6 @@
     "company": "NEXA Digital School",
     "location": "Auvergne-Rhône-Alpes",
     "contract": "Alternance",
-    "salary": "Non spécifié",
     "url": "https://www.hellowork.com/fr-fr/emplois/77602426.html"
   },
   {
@@ -2232,20 +2213,20 @@
     "url": "https://www.hellowork.com/fr-fr/emplois/77035954.html"
   },
   {
-    "title": "Alternance - Administrateur Office 365 H/F",
-    "company": "Seqens",
-    "location": "Écully - 69",
-    "contract": "Alternance",
-    "salary": "492,22 - 1 823,03 € / mois",
-    "url": "https://www.hellowork.com/fr-fr/emplois/77229646.html"
-  },
-  {
     "title": "Alternance - Développeur Java - Shell - Dijon H/F",
     "company": "BPCE Solutions informatiques",
     "location": "Dijon - 21",
     "contract": "Alternance",
     "salary": "492,22 - 1 823,03 € / mois",
     "url": "https://www.hellowork.com/fr-fr/emplois/76855495.html"
+  },
+  {
+    "title": "Alternance - Administrateur Office 365 H/F",
+    "company": "Seqens",
+    "location": "Écully - 69",
+    "contract": "Alternance",
+    "salary": "492,22 - 1 823,03 € / mois",
+    "url": "https://www.hellowork.com/fr-fr/emplois/77229646.html"
   },
   {
     "title": "Alternance - Analyste Cybersécurité Junior - BTS C.I.E.L H/F",
@@ -2260,7 +2241,6 @@
     "company": "Aftec Rennes",
     "location": "Rennes - 35",
     "contract": "Alternance",
-    "salary": "Non spécifié",
     "url": "https://www.hellowork.com/fr-fr/emplois/77590235.html"
   },
   {
@@ -2300,24 +2280,20 @@
     "company": "NEXA Digital School",
     "location": "Lyon - 69",
     "contract": "Alternance",
-    "salary": "Non spécifié",
     "url": "https://www.hellowork.com/fr-fr/emplois/75810792.html"
   },
   {
-    "title": "Alternance Développeur H/F",
-    "company": "Non spécifié",
-    "location": "Arras - 62",
+    "title": "Alternance - Ingénieur Cybersécurité & Systèmes H/F",
+    "company": "NEXA Digital School",
+    "location": "Strasbourg - 67",
     "contract": "Alternance",
-    "salary": "Non spécifié",
-    "url": "https://www.hellowork.com/fr-fr/emplois/76657797.html"
+    "url": "https://www.hellowork.com/fr-fr/emplois/77612182.html"
   },
   {
-    "title": "Alternance Assistant RSSI H/F",
-    "company": "NEXA Digital School",
-    "location": "Lille - 59",
+    "title": "Alternance Développeur H/F",
+    "location": "Arras - 62",
     "contract": "Alternance",
-    "salary": "1 000 - 1 823,03 € / mois",
-    "url": "https://www.hellowork.com/fr-fr/emplois/77295573.html"
+    "url": "https://www.hellowork.com/fr-fr/emplois/76657797.html"
   },
   {
     "title": "Alternance Développeur SAP Excellence Center - Lille H/F",
@@ -2326,6 +2302,14 @@
     "contract": "Alternance",
     "salary": "492,22 - 1 823,03 € / mois",
     "url": "https://www.hellowork.com/fr-fr/emplois/76901546.html"
+  },
+  {
+    "title": "Alternance Assistant RSSI H/F",
+    "company": "NEXA Digital School",
+    "location": "Lille - 59",
+    "contract": "Alternance",
+    "salary": "1 000 - 1 823,03 € / mois",
+    "url": "https://www.hellowork.com/fr-fr/emplois/77295573.html"
   },
   {
     "title": "Alternance - Développeur·se Applicatif·ve Poste de Travail H/F",
@@ -2348,55 +2332,6 @@
     "company": "Sup de Vinci Rennes",
     "location": "Rennes - 35",
     "contract": "Alternance",
-    "salary": "Non spécifié",
     "url": "https://www.hellowork.com/fr-fr/emplois/76870835.html"
-  },
-  {
-    "title": "Alternance Ingénieur Cybersécurité - Paris H/F",
-    "company": "ISCOD",
-    "location": "Paris 17e - 75",
-    "contract": "Alternance",
-    "salary": "492,22 - 1 823,03 € / mois",
-    "url": "https://www.hellowork.com/fr-fr/emplois/76285326.html"
-  },
-  {
-    "title": "Alternance - Assistant Support IT H/F",
-    "company": "Alliance Automotive Group",
-    "location": "Saint-Quentin - 02",
-    "contract": "Alternance",
-    "salary": "Non spécifié",
-    "url": "https://www.hellowork.com/fr-fr/emplois/77451257.html"
-  },
-  {
-    "title": "Alternance Developpeur No-Code - Paris H/F",
-    "company": "ISCOD",
-    "location": "Paris 9e - 75",
-    "contract": "Alternance",
-    "salary": "492,22 - 1 823,03 € / mois",
-    "url": "https://www.hellowork.com/fr-fr/emplois/77196678.html"
-  },
-  {
-    "title": "Analyste Soc N3 Cert en Alternance H/F",
-    "company": "MyDigitalSchool Toulouse",
-    "location": "Toulouse - 31",
-    "contract": "Alternance",
-    "salary": "1 823,03 € / mois",
-    "url": "https://www.hellowork.com/fr-fr/emplois/77136938.html"
-  },
-  {
-    "title": "Alternance - Développeur - Codeur H/F",
-    "company": "RTE",
-    "location": "Morières-lès-Avignon - 84",
-    "contract": "Alternance",
-    "salary": "1 422 - 1 823 € / mois",
-    "url": "https://www.hellowork.com/fr-fr/emplois/76901850.html"
-  },
-  {
-    "title": "Alternance - Security Solution Administrator H/F",
-    "company": "L'Atelier",
-    "location": "Lille - 59",
-    "contract": "Alternance",
-    "salary": "Non spécifié",
-    "url": "https://www.hellowork.com/fr-fr/emplois/76283333.html"
   }
 ]
